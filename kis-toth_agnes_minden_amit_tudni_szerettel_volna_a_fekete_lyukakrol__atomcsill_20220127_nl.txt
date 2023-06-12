@@ -1,0 +1,733 @@
+ Köszöntök mindenkit az Atom Chill legújabb előadásán.
+Valóban a témánk a fekete lyukak.
+Minden, amit szerettetek volna tudni a fekete lyukakról, de féltetek megkérdezni ez a címe.
+Én Kisztotth Ágnes vagyok, és itt az Eltaton Fizikai Tanszékének vagyok mestertanára, hogy ezt az előbb is hallhattátok, és az előadásom a csend üres.
+A maradék lakókból, a lakókból az előadás a kérdés, hogy miért nem kell, hogy a kérdés, hogy ezt az előadást előkészítettem, akkor rájöttem, hogy a tudásunk egyszerűen túl nagy a fekete lyukakról, ahhoz, hogy beleférjen egyetlen atom chill előadásba.
+Így kénytelen voltam kicsit megcenzúrázni, és ezért szeretném pontosítani az előadás címét.
+Szinte minden, amit szerettél volna tudni a fekete lyukakról, de féltél megkérdezni.
+Így is azért a kérdés, hogy miért nem kell, hogy a kérdés, hogy miért nem kell, és szinte minden, amit szerettél volna tudni a fekete lyukakról, de féltél megkérdezni.
+Így is azért remélem, hogy nagyon sok érdekességgel fogtok találkozni, úgyhogy vágjunk is bele.
+Általában mindenki hallott arról, hogy a fekete lyukak azok Einstein relativitás elméletének a gyerekei.
+Viszont azt ritkában tudják, hogy igazából nem volt szükség magára a relativitás elméletre, ahhoz, hogy egy alap gondolat felmerüljön a fekete lyukakról.
+Igazából elég volt már nekünk a Newtoni gravitáció.
+Megszertett a Newtoni gravitáció, Newton megalkotta a törvényeit, és már ez alapján volt egy olyan fogalmunk, amit úgy hívnak, hogy szökési sebesség.
+De hogy ha állunk egy égítest felszínén, egy bolygó felszínén, akkor van egy olyan fajta sebesség, amit el kell érnünk ahhoz, hogy mi elszökjünk ennek az égítestnek a gravitációja elől.
+Tehát végtelen távolra, hogy el tudjunk szökni, és ki tudjunk kerülni a hatása alól.
+Aztán ez a Föld esetén 11,2 km per szekundum.
+Hát emberi mértékkel ez nagyon nagy, ezért kell hatalmas rakétákat építenünk, hogy elhagyjuk a gravitációs törét.
+A nap esetén már még nagyobb lenne több, mint 600 km per szekundum.
+Most ha csak ebből az egyszerű szökési sebesség fogalomból indulunk ki, akkor igazából már 18.
+század végén John Mitchell megalkotott egy ilyen fogalmat, amit ő sötét csillagoknak nevezette.
+Kiszámolta, hogy ha veszünk egy olyan csillagot, ami ugyanolyan sűrűségű, mint a nap, tehát semmi extrém sűrűség, viszont 500-szor akkora, akkor ennek a csillagnak a felszínén a szökési sebesség az nagyobb kellene, hogy legyen, mint a fénysebesség.
+Márpedig ez azt jelenteni, hogy igazából akkor egy ilyen csillagot kívülről nézve nem láthatunk, hiszen a fény nem tud elszökni róla, tényleg sötét lenne a szószoros értelmében.
+Természetesen akkor még nem tudtuk, hogy a fénysebesség a legnagyobb, és a sebességhatára, amit elérhetünk az univerzumban, tehát ez nem jelentette azt, hogy más nem tudna elszökni mondjuk egy ilyen csillag gravitációjáról, de az biztos, hogy sötét megláttuk volna.
+Természetesen ahhoz, hogy igazán megismerjük és megértsük a feketőkakat, tényleg valóban szükség volt Einstein általános relativitás elméletére.
+Einstein már 1905-ben előállt a speciális relativitás elméletével, ebben bevezetett olyan fogalmakat, mint a téridő.
+Összekapcsolta, és rájött, hogy a tér és az idő nem független dolgok egymástól.
+Ezen kívül itt már bevezette azt, hogy aluljában a fénysebesség a leggyorsabb az univerzuma, tehát semmi nem mozoghat gyorsabban a fénynél.
+Amit igazából ehhez az általános relativitás elméletére hozzáadott az az, hogy belerakta ebben az egész téridőbe az agyangot is, az energiát, valamit, aminek tömege van, és ebből kifejőleg ugye gravitációs hatása is.
+Einstein volt az, aki rájött, hogy maga a gravitácia az igazából azt jelenti, hogyha veszünk egy bizonyos tömeget, akkor ez a tömeg maga körül meggörbíti a téridőt.
+És ennek a görbül téridőnek a hatására mozognak egy kicsit máshogy az adott test körül az egyéb tömegen rendelkező dolgok.
+Természetesen alapesetben, tehát elméletileg mindenkinek van ilyen görbülete, tehát például nekem is van egy tömegem, tehát én is magam körül meggörbítem a téridőt, csak hát ez annyira pici, hogy mondjuk azt, hogy senkit nem annyira mozgat meg.
+Viszont ha már veszünk egy nagyobb tömegű testet, például amilyen a nap.
+A nap által létrehozott téridő görbület az már elég jelentős, és például hatással van a környezetében lévő kisebb olygukra.
+A Föld is ugye amiatt kering a nap körül, mert ebben a görbült téridőben számára ez a legoptimálisabb pálya, hogy ebben mozog.
+Ez az elképzelése szerintem mindenképpen számára ismerős lehet, hogy ezt a görbült téridőt, ezt így képzeljük el, hogy mondjuk mint egy lepedőt kifeszítünk, és akkor ráhelyezünk egy testet, az meggörbíti maga alatt ezt a lepedőt.
+Természetesen az jó tudni, hogy ez egy kétdimenziós reprezentálása a téridő görbületének.
+Egy háromdimenziós térgörbülete az már csak négydimenzióban lehetne pontosan ábrázolható.
+Viszont azért hoztam nektek egy kis illusztrációt, hogy érdezzétek, hogy kb.
+milyen lenne az, amikor a háromdimenziós tér meggörbül.
+Na akkor Einstein végül is mi az, amit megalkotott ezt a nagyon szép egyenletet, amit itt láttok a támlán.
+Ez az úgynevezett Einstein-téregyenlet.
+Ez az egyenlet, ami meghatározza, hogyha bizonyos tömegünk, energiánk van, akkor az hogyan görbíti meg a téridőt.
+Hát ez egy ránézésre nagyon egyszerű egyenlet, igaz? Tehát semmi extra kinek tudná megoldani.
+Valójában az az igazság, hogy emögött iszonyatosan banyolult egyenletek állnak, tehát nem is olyan könnyű megoldani ezt, hogyha nekünk mindenféle random tömegeloszlásunk van a térben.
+Úgyhogy első körben ez amúgy szép egyenletnek tűnt, de nem volt megoldása és problémát is jelentett.
+De nem kellett nagyon sokáig várni, még ugyanebben az évben Carl Schwarzschild, igazi nyelvtörő a neve, még ugyanebben az évben sikerült találnia egy megoldást erre az Einstein-egyenletre.
+Méghozzá egy nagyon speciális esetre, arra az esetre, amikor veszünk egy gömbszimetrikus tömeget, ehhez az egyenlet, a Schwarzschild egyenlet, az megmondta, hogy ebben az esetben hogyan görbül a gömbszimetrikus tömeg körül a téridő.
+Hát ez egy speciális megoldás, viszont milyen jó nekünk, hiszen az univerzum tele van olyan objektumokkal, amik közelíthetőek, meg tekinthetőek egy ilyen gömbszimetrikustásnak, tehát például bolygók, kisbolygók, csillagok, még a feketők a kis, tehát ez pontosan olyan objektumok, amik közelíthetőek ezzel a megoldással.
+Úgyhogy már is előrébb jutottunk.
+Viszont ennek a megoldásnak volt egy nagyon érdekes tulajdonsága, hogyha ezt a gömbszimetrikus tömeget fogtuk és egészen kicsire összesültettük, ez mennyire kicsire, annyira, hogy az ő Schwarzschild-sugarem belülre kerüljön, akkor a megoldás szerint annak az összes tömegnek, teljesen mindegy, hogy mennyi, be kell zuhanni a középpontban, egyetlen pontba a szingulorításba.
+Azért lesz ez szingulorítás, matematikában a szingulorítást akkor használjuk, amikor valami végtelen.
+Most amikor minden tömeg egyetlen pontba sűrűsödik össze, a végtelen kicsit pontba sűrűsödő tömeg annak végtelen nagy a sűrűsége, tehát ezért mondjuk azt, hogy ez szingulorítás.
+Viszont ennek a megoldásnak volt egy másik érdekessége, hogyha ez a tömeg összeomlik és egyetlen pontba, így a szingulorításba kerül, akkor volt egy határ, ez a svalcsűd-sugarú gömbfelület, ahol szintén nagyon furcsa dolgok történtek.
+Ez az a gömbfelület, amit egyébként szerintem mindenki hallott, a manapság eseményhorizontnak nevezünk.
+Viszont első körben ez csak annyi volt, hogy szintén egy szingulorítást jelentett a svalcsűd egyenletbe, ugyanis bizonyos paraméterek az egyenletbe itt is végtelené váltak.
+Hogyan lehetett ezt értelmezni, hogy valami egy egész gömbfelületen végtelen mértekegységet vesz fel.
+Ez egy picit fejtörést jelentett akkoriban.
+De szerencsére, volt erre is egy magyarázat, Arthur Eddington rájött arra, hogy igazából a svalcsűdtől eltérően egy másik koordinátorrendszert választunk, akkor az eseményhorizonton, tehát a svalcsűd-sugarú felületen igazából nem is történik semmi extra, megszűnik a szingulorítás.
+Maga az a matematikai szingulorítás volt, ami a koordinátorrendszer választásából fakadt.
+Mondjuk ezt, hogy a koordinátorrendszert, hogy hát írjuk és egy másik koordinátorrendszert választunk, akkor már tényleg megszűnt a szingulorítás, de ez nem azt jelentette, hogy ez az eseményhorizont, ez a svalcsűd-sugarú gömb, ez nem érdekes számunkra, ugyanis ez az a határ, amit igazából úgy hívunk, hogy az a határ, amint túlról nincsen visszatérés.
+Tehát ez az a pont, ahol a szökési sebesség megegyezik a fénysebességgel.
+Tehát, hogyha valaki ezen belül vagy ezen átjut, túljut az eseményhorizont másik oldalára, akkor onnan nincsen visszaút, hiszen a fénysebességnél nagyobb sebességre lenne szükség, hogy elszökjük.
+Tehát tényleg úgy lehet elképzelni ezeket a feketékokat, mint valamilyen univerzális lefolyók, ahol a téridő egyszerűen lefolyik és eltűnik, és hogyha mi bekerülünk az eseményhorizont túloldalára, akkor egyszerűen nem menekülhetünk, minket is magával ragad.
+Érdemes itt egy kicsit a törcsénelmi vonalról kitérődtenünk, mert én is azt mondtam, hogy ahhoz, hogy ez az egész jelenség bekövetkezhessen, nincs más dolgunk, mint az adott tömeget összesűríteni a svalcsítsugarán belülre.
+Most a svalcsítsugar igazából minden tömeghez kiszámolható, tehát minden tömegnek létezik svalcsítsugara.
+Ez azt jelenti, hogy valójában elméletileg bármikor a tömegből tudunk feketelyúkat csinálni.
+Például nézzük meg, hogy mire gondolok itt, milyen nagyságrendekről kellene beszélni.
+Vegyük a napot.
+Annak van kb.
+2x10 a 30.
+kilogramm tömeg, amit az előadást a webi részében már így fogunk kinevezni, hogy egy naptömegtömegettség.
+Hogyha a napból szeretnék feketelyúkat csinálni, neki is van svalcsítsugara, az ő hozzá tartozó svalcsítsugar az kb.
+3 km.
+Ez jelenti, hogy ahhoz, hogy feketelyúkat csináljunk a napból, igazából nincs más dolgunk, mint összesűríteni, lekicsiníteni, összetutkolni olyan pici helyre, hogy elférje Budapest belvárosában.
+Ha ezt megtesszük, akkor valójában kapunk egyből egy feketelyúkat.
+Tegyük fel, hogy mondjuk a földből szeretnénk feketelyúkat csinálni.
+Ahhoz, hogy ezt elérjük igazából, semmi más nem kellene tennünk, mint a földet.
+Összesűrítjük kb.
+olyan picire, hogy elférjen a körbünkön, és ha ez megtörténik, akkor itt is feketelyúkat kapunk.
+Egy embernek is van a tömege, tehát akár egy emberből is kell elhatnánk emléletileg feketelyúkat.
+Ehhez pusztán csak az atom nagyon picire részére kéne összesűrítenünk.
+Minket az az ábra, amit láttok, nem annyira méretarányos.
+Valójában a protónnak kb.
+10 milliárdod részére kellene egy embert összesűríteni, ahhoz, hogy feketelyúkat kapjunk.
+Ha belegondolunk, ez extrém nagy sűrűség.
+Tehát egyetlenen, hogyan létezhetnének ilyen feketelyúkak, ha olyan sűrűségeket kellene élnünk, amik elképzelhetetlenül nagyok.
+Azért járjuk végre ezt a sűrűség témát egy picit jobban.
+Azt mondtuk, hogy a svalcsi csugár az orányos a tömegkel.
+És akkor próbáljuk meg kiszámolni ezzel a nagyon egyszerű képlettel, hogy mennyire kellene összesűrítenünk egy adott tömeget, hogy feketelyúkat kapjunk.
+Mekkora az a kritikus sűrűség, amit el kell érnünk, hogy megtörténjen ez a folyamat? Nagyon egyszerű a képlet, veszjük az adott tömeget, és elosztjuk azzal a térfogattal, amelyiknyire összeszeretnénk őt sűríteni.
+Ez a svalcsi ötgömnek a térfogata.
+Az arányos a sugárnak a harmadik hatványával, a sugár pedig arányos a tömegkel.
+Tehát mit kaptunk? Ez a kritikus sűrűség, amit el kell érnünk, az arányos vagy fordítottan arányos a tömeg négyzetével.
+Vagyis minél nagyobb tömeget veszünk, annál kisebb kritikus sűrűség kell.
+Tehát valójában kisebb tömegekből nagyon-nagyon nehéz a feketékat csinálni.
+Mit láttatok, hogy egy embert összenyomni, ilyen nagyon pöttöm részre nem nagyon tudunk ilyen mechanizmust, vagy nem mostanában fog ez előfordulni, hogy véletlenül valaki fekete lyukát konvertálja saját magát.
+Viszont, hogyha egyre nagyobb és nagyobb tömegeket veszünk, akkor maga az a sűrűség, ami ahhoz kell, hogy még kreáljunk egy feketékat, az egyre kisebb lesz.
+És kis spoiler, mindenki szerintem hallott már erről, hogy a világon vannak szupermasszív feketékok, úgyhogy példaként elmondom, hogy ha vesztük az Androméda közepén találtó szupermasszív feketékokat, 230 millió naptömegével, a hozzá tartozók ez a kritikus sűrűség, tehát hogy mennyi a bennel évő tömeg, osztva a Schwarzschild-nőm, tehát az eseményhorizont melüli térfogattal, ez a sűrűség igazából kisebb, mint a víznek a sűrűsége.
+Vagy ha azt a szupermasszív feketéjüket vesztük, amiről tavaly készült egy nagyon szép felvétel, tavaly néhány éve, neki az átlagos sűrűsége, tehát a tömeg per az eseményhorizont melüli térfogat, az igazából a levegőnél is kisebb.
+Tehát valljuk be, hogy azért nem is kell olyan extrém sűrűségeket elérni, ahhoz, hogy feketéket csináljunk, csak igazából nagyon-nagyon sok agyamot kellene egy helyre pakolni, úgy sokkal könnyebb.
+Azért persze nincs, vagy nem teljesen feledkezhetünk el arról a gondolatról, ahogy el szoktuk képzelni a feketéjüköket, hogy extrém sűrűségűek.
+Ugyanis ez, amiről beszéltünk, ez a kritikus sűrűség, ez igazából olyan, mint az átlagos sűrűségük, tehát az össztömeg osztva az össztérfogattal.
+Ez az átlagos sűrűség hiába nagyon pici, az elmélet azt mondja, hogy az összes tömeg, ami ebben van, az egyetlen pontban kell, hogy összesűrűsödjön a kellős közepén, és ez még továbbra is végtelen sűrűségnek tekinthető.
+Tehát bizonyos szempontból matematikailag végig is csak nagyon-nagyon extrém sűrűségekről beszélünk itt.
+Az egyébként, hogy tényleg egyetlen pontban sűrűsödik-e, tehát valóban létezik ez a szingularitás, vagy ez csak egy matematikai jelenség, és még majd pontosítanunk el jövőbe, ezt egyelőre nem tudjuk.
+Sokan azt gondolják, hogy akkor fogjuk pontosan megérteni, hogy mi történik egy fekete júg közepén, amikor végre megszületik az eltánsalatúítás elméletet, és a kvantumálnik átötvező kvantumgravitáció elmélet, amit nagyon sok fizikus szent grálként keres, mert régóta, ha ez megszületik, akkor lehet, hogy meg fogjuk tudni érteni, hogy pontosan mi történik egy fekete júg kellős közepén.
+Viszont végtérjünk vissza a történeti szálhoz.
+Tehát azt mondtuk, hogy megszületett svartsírt megoldása az Einstein egyenletre.
+Rájöttünk, hogy akár létezhetnek is ilyen fekete júgok, de ennek ellenére annyira extrémnek és annyira szokatlannak tűntek, hogy nagyon sok fizikus például 100 évvel ezelőtt egyáltalán nem is feltételezte, hogy ilyenek a valóságban létrejöhetnek.
+Maga Einstein sem feltétlenül gondolta, hogy ilyen extrém objektumok létrejöhetnek a fizikai valóságban.
+Lehet, hogy ezek csak matematikai konstrukciók.
+De hát a fizika nem állt meg, és azért haladt tovább a fejlődés.
+1931-ben például Csandra Sekkári fizikus rájött arra, hogyha egyszerűen egymásra pakolunk 1,4 naptól megint tömeget, akkor akkor a nagy gravitációs hatása van ennek a tömegnek, hogy a saját súlyát nem bírja megtartani, és egyszerűen összeomlik, ilyen gravitációs összeomlás folyamatban.
+Hogy mi történik, vagy mi lesz vele ezután, az persze még kérdés volt.
+1934-ben viszont Walter Bédés Fritz Viki előálltak a neutron csillagok ötletébe.
+A neutron csillagok ezek egy olyan érdekes, nagyon sűrű állapotú csillagok, amelyeket kell úgy elképzelni, hogy ha egy normál anyag gravitációsan összeomlik, akkor keretkezik.
+Most milyen a normál anyag? Tudjuk, hogy van kis protonok, neutronok az atomokban, körülöttekeringenek az elektronok.
+Ebből a legnagyobb helyet az elektronok foglalják el.
+Tegyük fel, hogy mi ezt elkezdjük sűríteni és összetuszkolni egyre kisebb helyre.
+Akkor kb.
+úgy kell elképzelni, mintha az elektronokat beletuszkolnának az atommagokban, akkor egyesülnének a protonokkal, és keretkeznek nagyon-nagyon sok neutron.
+Ez a neutron csillag kb.
+olyan, mint egy hatalmas nagy atommag, rengeteg neutronból.
+Mivel az elektronok már nincsenek a képbe, azért sokkal kisebb helyen elfelejt, kb.
+100 ezer egyszer kisebb helyen, mint a normál anyag.
+Tehát ez már egy nagyon extrém sűrű állapot, de még mindig nem feketejük.
+Viszont ezután nem sokkal, 1939-ben Oppenheimer előállt egy újabb számítással, és rájött, hogy ha 1,4-nél nagyobb tömeget veszünk, az tényleg összeomlik gravitációsan, és neutron csillag keretkezik, de ha 3 naptömegnél többet egymásra pakolunk, akkor már a neutron csillag állapot sem tartja meg saját magát, még jobban összeomlik, és feketejük keretkezik.
+Na hát ez tök jó, nem is olyan nagyon sok tömeg kell hozni.
+3 naptömeg az ilyen univerzális viszonylatban viszonylag kicsinek számít.
+Rengeteg csillagunk van, ami igazából 10, 20, 30, akár 100 naptömegkel rendelkezik.
+Nem tűnik ez kicsit állatmondásnak? Vannak ilyen hatalmas csillagaink.
+Márpedig most mondtam, hogy 3 naptömeg, az már nem tudja megtartani a saját gravitációját.
+Hát a helyzet az, hogy nem állatmondás, ugyanis a csillagokban történik egy ilyen folyamat, amit úgy hívunk, hogy fúzió, tehát az energiátermelő folyamat, és a csillagokban egy ilyen nagyon jó egyensúly alakul ki az energiátermelő fúziós folyamat és a gravitáció között, ami megpróbálja összeomlasztani ezt a rendszert.
+Egészen addig, amíg a csillag világít, amíg tartozza a folyamat, addig ők egyensúlyban vannak, és nem történik összeomlás.
+Nagyon sajnos egyik csillagnak sincsen örökkétartó üzemanyaga, egyszer mindegyik kifogy a kraftból.
+Különböző méretű csillagok különböző életutat járnak be, de most koncentráljunk kicsit a nagytömegű csillagokra.
+A nagytömegű csillagok, mondjuk 8-10 naptömegnél nagyobb csillagok, azok hogyan fejezik be az életüket? Szerintem már sokan hallottátok, egy hatalmas szupernova robbanásban.
+Egy ilyen szupernova robbanásnak a képét láthatjátok, ez a rák köd.
+Ez egyébként egy olyan érdekes jelenség szerintem, hogy a hozzá tartozó szupernovát, azt még 1054-ben figyelték meg, akkor egy hirtelen felfényesedés volt látható az évboltón, szabad szemes lehet látni, az akkori csillagászok fejegyezték, és 900 évvel később sikerült megtalálni, hogy ennek az akkori robbanásnak még a mai napig látható a maradványa.
+Ez a szupernova robbanás maradvány nagyon szép.
+De hát akkor történhet ilyen a nagytömegű csillagokkal, hogy szupernova robbanás.
+Ebből feltételezük és látjuk is, hogy a tömeg nagy része az ledobódik, és beleolvad aztán a csillagközi térben és a csillagközi gázok közé.
+Viszont nem az egész.
+Mindig marad egy kicsi mag középen, ami nem löködik ki a robbanásba.
+Most ha ez a mag, ami ott marad középen az 1,4-én nagyobb tömegű, akkor neutroncsillagot kapunk, hiszen ebben már nincsen fúzió, nem tudja megtartani a saját gravitációs húlyát.
+Hogyha pedig ez a mag még nagyobb, és három naptömegnél több maradott, akkor bizony nem állítható meg a folyamat is feketelyük között.
+Legalábbis ez az elsődleges elmélet.
+Száz évvel ezelőtt, meg is hát már annál kicsit kevesebb ideje volt ez, ott még azért felmerült a kérdés, hogy tényleg valóban lejátszódhat-e ez a forgatókönyv? Milyen akadályai lehetnek ennek, ha a feketelyüket azt mondjuk, hogy ez a gravitációs összeomlás egy csillag életének a légén következik be, egy csillag maradványából, akkor például mi várható? Hogy ez a maradvány valószínűleg forogni fog, hiszen a csillagok is forognak, perdületmegmaradás miatt ez a maradvány is volszineg örököl egy kis perdületet, ő is forogni fog, sőt, várhatóan még gyorsabban.
+Mi az, amit még várhatunk? Egy robbanás utáni maradvány az valószínűleg nem lesz tökéletesen gömszimetrikus, teljesen fura sűrűségel oszlásokkal rendelkeztet kérdés az, hogy egy ilyen tökéletlen környezetben, ahol abszolút nincs gömszimetria, ráadásul minden forog, egyéb dolgok is lehetnek, tényleg kialakulhat-e egy ilyen tökéletes összeomlás, gravitációs összeomlás egyetlen pontban? Úgyhogy még mindig nem volt mindenkiről meggyőződve, hogy ez egyáltalán tényleg egy lehetőség.
+A következő lépést a folyamatban, amíg eljutottunk tényleg a feketelyükökhoz, az jelentette, mikor 1963-ban Roy Kerr előállt a nyilatének egy újabb megoldásával.
+Ez az újabb megoldás, ez hasonlított svartsyúk megoldásához, de azzal a különbséggel, hogy már egy forgó feketelyükat tudtunk vele leírni.
+Svartsyúk megoldás az tökéletesen gömszimetrikus, nem forgó, töltéssel nem rendelkező feketelyükökről szólt.
+Egy forgó feketelyükat leíró egyenlet sokkal valóságosabbnak tűnt, hiszen ha ezt a folyamatot nézzük, hogy csillagok élete végén keletkezik egy feketelyük, akkor várható volt, hogy a keletkező feketelyüknak kellene, hogy legyen valami perdulata.
+Azért felmerül a kérdés, hogyha egyetlen pontban összetömörül ez az anyag, akkor ez az egy pont, egy pontnak hogyan érthelmezzük a forgását? Itt érdemes kihangsúlyozni, hogy az egyenlet arról szól, és ez az érdekes, hogy a feketelyükök forgása az abban nyilvánul meg, és számunkra abban lesz látható, hogy maga a téridő fog forogni a feketelyükök között, vagy körül feketelyükök körül.
+Tehát a téridő forgása az, amit ezen az ábrán kis illustrációban megfigyelhetünk.
+Még egy érdekességet kiemelnék így a forgó feketelyükökről, mert minden szempontból nagyon érdekesek, hogy egy forgó feketelyük esetlén valójában nem is szingularitásról, meg is nem pont szingularitásról beszélhetünk a feketelyük közepén.
+Olyan is, itt egy gyűrű szingularitás található.
+Ezért továbbra is fennáll, hogy a szingularitás, ugyanis az ábrával ellentétben ezek nulla vastagságú gyűrük, tehát nulla vastagság, nulla térfogat, és abba kellene tömörülni bizonyos mennyiségű anyagnak, ez továbbra is azt jelenti, hogy végtelen sűrűség.
+Szingularitás csak már egy úgynevezett gyűrűszingularitás.
+Angolban ezt szokták ringularity-nek is hívni, ami nagyon hangzatos, magyarban ilyen szép megfelelőnk nincsen.
+Mi az, ami következő fontos előrelépés volt a fekete lyukak megépmelésében? 1964-ben Penrose állt elő egy bizonyításával azzal, hogy mindaz, amit addig feltételeztünk, hogy tökéletlen az univerzum, nem gömbszimetrikus, forog minden, ugye korábban mindig megkérdőjeleztük, hogy vajon tényleg kialakulhatnak ezek a fekete lyukak, bekövetkezhet egy ilyen szép gravitációs összeomlás, és ő volt az, aki belátta és bebizonyította, hogy igen.
+Tehát hiába tökéletlen az univerzumunk, ez a tökéletes gravitációs összeomlás akkor is nem csak hogy bekövetkezhet, de valójában azt lette be, hogy természetes következményei a természeti törvényeinknek, tehát várható, hogy tényleg léteznek a fekete lyukak.
+Ez persze továbbra sem segített mondjuk a fizikusoknak és csillagászoknak, hogy hogyan keresünk ilyen fekete lyukakat, de mondjuk egy újabb lépés volt a felé, hogy elfogadjuk, hogy léteznek.
+Ezért egy újabb rendőrletet adott igazából a fekete lyukak kutatásának, és talán sokan nem tudjátok, de igazából csak ekkor kapták a fekete lyukak a nevüket, azt, hogy fekete lyuk.
+Ez annyira találó ez az elnevezés, hogy igazából fel sem merülhet, hogy bármi másnak hívjuk ezt az objektumot, pedig az eredeti neve az volt, hogy gravitációsan összeomlott objektum.
+Hát nem túl hangzatos név, ezt be kell vallani, úgyhogy nem csodálom, hogy kicsit más irányba indultunk el.
+Állítólag a legelőször Robert Dick használta ezt a kifejezést bizonyos előadásaiban, és nagyon érdekes módon egyébként nem is maga az alap objektum fizikai tulajdonságaira utalt, hanem egy kalkuttai börtörről nevezte el.
+A Black Hole-ok kalkuttai és kalkuttai fekete lyuk egy olyan notorius börtön volt, ami arról volt híres, hogy ha oda bemennek az emerek, akkor általában nem jönnek ki élve.
+És ezzel a hasonlattal próbált érzékeletetni a fekete lyukaknak a hatását, hogyha egyszer bejutunk, akkor valószínűleg nem jutunk ki onnan.
+Na mi az, ami még egy nagyon fontos lépés volt? A neutron csillagok felfedezése.
+Ez még mindig nem fekete lyuk, de a neutron csillagok, ahogy láttuk, fontos szerepet kaptak ezen az úton, hogy eljussunk a fekete lyukakhoz.
+1967-ben Jocelyn Bell éppen átnyározott egy hatalmas mennyiségű rádiójelet, és akkor talált egy periódikusan ismétlődő jelet.
+Ez a periódikusan ismétlődő jelenet először nagyon gondolkodóba ejtette őket, az egész kutatócsoportot, hiszen mi lehetne más, ami ilyen szépen periódikus, mint valami civilizáció.
+Tehát valószínűleg egy távoli civilizáció akarja velünk felvenni a kapcsolatot, ezért az elsődleges elnevezése ez is volt, hogy little green men, vagyis kis zöld emberek.
+Aztán persze, ahogy tovább folytatták a kutatást, találtak azékbolt különböző irányaiban hasonló periódikus jeleket, és ott már nem tűnt valószínűleg, hogy mindenhonnan egyszerre akarják velünk felvenni a kapcsolatot, és párnál nagyon hasonló módon, hogy végül rájöttek, hogy ezek nem mások, mint neutroncsillagoknak a jelei.
+Nyilván a neutroncsillagok, mint nagycsillagok maradványai, azok szintén nagyon gyorsan tudnak forogni, nagy perdülettel rendelkeznek, és van még egy tulajdonságuk, nagyon nagy mágneses terük van.
+A nagyon nagy mágneses térhatására a mágneses pólusoknál nagy energiásugázást tud kibocsáltani kétiregybe, kétiregybe, így ilyen neutroncsillag.
+Most ha a neutroncsillag forgási tengeje nem párhuzamos a mágneses tengejével, akkor ez a sugárzás körbe-körbe jár, mint valami ilyen univerzális világító torony.
+Hogyha mi pont jó irányban nézünk erre a púzárra, akkor periódikus jelet látunk.
+Na hát fel is fedeztük a neutroncsillagokat, és ha már neutroncsillagok léteznek, sőt, be is tudtuk találni őket, akkor felmerült, hogy esetleg talán most már a fekete lyukakat is meg tudjuk figyelni.
+Viszont hogyan tudnánk fekete lyukakat megfigyelni? Azért gondolkodjunk el azon, hogy egyáltalán milyen tulajdonságű lehetnek egy fekete lyuknak.
+1967-ben Werner Israel bizonyította be ezt a tételt először, de később nagyon sokan foglalkoztak a témával, többek között Hawking is.
+Jacob Bechenthal volt állítólag az, aki elvált ezzel az elnövezéssel, hogy No-Hair theorem.
+Vagyis azt jelenti magyarul, hogy a fekete lyukak kopaszok.
+Ez mire akar utalni ez a nagyon érdekes analógia? Arra utal, hogy a fekete lyukaknak kívülről nincsenek karakterisztikus ismerhetőjegyeik.
+Tehát olyan dolgok, amik alapján őket felismerhetünk, megkülönböztethetünk egymástól.
+Mint ahogy mondjuk az embereknél a hajuk megkülönbözteti őket egymástól.
+Viszont azért tegyünk hozzá pontosan, hogy nincsenek nagyon karakterisztikus jellemzőjegyeik, kivéve három dolgot.
+Tehát ezt azt mondhatjuk, hogy a fekete lyukak kopaszok, de van három darab hajszájuk.
+És pont ezért egyébként egy nagyon jó analógia Homer Simpson, mert Homer Simpsonnak is három darab hajszája van, tehát a fekete lyukak pont ilyenek.
+Most mi az a három darab hajszál? Ez a három darab ismerhetőjegy.
+Az egyik ugye a tömeg, a másik az elektromos töltés, a harmadik pedig az impulzusmomentum, tehát a perdület.
+A TETA-t azt mondta ki, hogy ez a három ismerhetőjegye lehet a fekete lyukaknak.
+Azért érdemes egy pillantra végig gondolni, hogy ez mit jelent.
+Ez azt jelent, hogy semmi mást, ha kívülről rájuk nézünk, nem tudhatunk meg róluk.
+És például fogalmunk se lehet arról, hogy milyen anyagokat nyelte, milyen anyagok alkotják, van-e bármi sűrűségeloszlás benne.
+Nincsen domborzata felszínén, tehát az eseményhorizont, ami kívülről a fekete lyuk megjelenését mutatja számunkra, annak nincsen semmilyen domborzati megjelenésre, sőt, ráadásul nem is lehet lapult például ováris alakú, vagy ilyenek, hanem mindenképpen gömbszimetikusnak kell lennie.
+És csak ezt a három tulajdonságot tudjuk megállapítani róla.
+Most ezen három tulajdonság alapján az elektromos töltés az olyan, amit annyira nem várunk, hogy a valóságban nagyon meg tudunk figyelni, hiszen, ha valamilyen oknál fog egy fekete lyuk valamekkora töltésre tesztelt, akkor várjuk.
+Az várható, hogy utána gyorsan ellentétes töltésű részecskéket bevonz, aztán kiegyenlítik egymást.
+Az impulzusmomentumnak van jelentősége, de leginkább akkor, hogyha nagyon közel vagyunk a fekete lyukhoz, tehát, ha messziről rájuk nézünk, ezek nagyon nem segítenek abba, hogy megtaláljuk őket, vagy megfigyeljük őket, tehát marad a tömeg.
+A tömegnek viszont van egy jó hatása, egy gravitációs hatása van, a tömege miatt extrém módon meggörbíti maga körül a téridőt, és ez az egyetlen dolog, vagy jelenség, ami alapján mi megkeresetjük őket.
+Tehát a fekete lyukak definíció szerint láthatatlanok, hiszen nem érkezik tőlük hozzánk fény, viszont a hatásukat, a környezetükre gyakorolt hatásukat, azt kereshetjük.
+És ezt a hatást, ezt mondom, a tömeg határozza meg, és erre az egyhajszálra a fekete lyukaknak egyébként azóta, tehát mondjuk 50 év alatt egyébként 5 különböző módszert is sikerült felfőzni, 5 különböző módszerrel is sikerült megfigyelnünk már közvetetten fekete lyukakat.
+Na akkor nézzük meg ezeket a módszereket.
+Az egyik ilyen a fekete lyukak táplálkozása.
+Ugye a fekete lyukak, mindenki hallott róla, elnyelnek mindent.
+Szeretjük úgy elképzelni őket, mintha még ilyen kozmikus porszívók, pedig azért nem azok, tehát nem az van, hogy egyszer csak úgy mindent beszippantanak, ami maguk körül van, de az tény, hogy el tudnak nyelni a nyogokat.
+De általában ez úgy működik, hogyha mondjuk arra jár egy adag táplálék, bármi csillagközi gáz, por, amit ők el tudnak nyelni, akkor az anyag először egy akrétziós korongot alakít ki a fekete lyuk körül.
+Ebben az akrétziós korongban az anyag egyébként egészen sokáig tudna orbitális tetjén körpályán maradni, amiatt spirálozódik be az anyag, mert az akrétziós korongban nagy a sullódás, és ahogy sullódik az anyag benne, úgy egyre energiát veszít, egyre közelebb és közelebb kerül a fekete lyukhoz, és aztán egy ponton tényleg bespirálozódik a belsejébe.
+Most a nagy sullódás miatt, meg egyéb hatások miatt, ez az anyag, tehát ahogy spirálozódik befelé, egyre jobban felforrósodik, és egyre jobban felgyorsul.
+Márpedig egy ilyen forró és nagyon gyors anyag nagyon intenzíven tud világítani.
+Ez például azt jelenti, hogy hiába láthatatlanok és feketék a feketékok, a környezetükben, körülöttük ez az akrétziós korong, ez nagyon erősen és intenzíven tud világítani.
+Ezt azért egy pillanatra megjegyezném, hogy maga az akrétziós korong, az nem amiatt alakul ki, mert a feketékok esetleg forognak, és az ő forgásuk alakítja ki.
+Ez egyszerűen azért alakul ki, mert az anyagnak, ami áramlik be a feketékban, neki is van egy perdülete, egy impulzusmomentuma, és amiatt ők is kialakítják ki maguknak ezeket a körpályákat a feketék körül.
+Annyiban persze szerepet játszik a feketéknak a forgása, hogy ha például megnézitek ezt az ábrát, a középen van egy olyan feketék, aminek nincsen perdülete, tehát nem forog, és lehet látni, hogy ott van egy rész a feketék körül, ahol nincsen akrétziós korong.
+Ez azért van, mert az akrétziós korongnak van egy belső határa, egy olyan rész, ahol a úgynevezett legbelső stabil körpálya található.
+Ez az a hely, amelyikben legjobban meg tudjuk közelíteni a feketékat, úgy, hogy stabil körpályán maradhatunk körülötte.
+Egészen addig az akrétziós korong látható, viszont ha az anyag oda elér, akkor onnantól kezdve már nem tud körpályát kialakítani, és szépen bespirálozódik pillanatok alatt a feketékben.
+Ennek a legbelső stabil körpályának, amit egyébként az angolban iskolnak szokták nevezni, az értéke az függ tényleg attól, hogy forog el feketék, illetve hogy melyik irányba.
+Hogyha az akrétziós korong azonos irányba, mint ahogy a képe alján látjátok, forog a feketék is, akkor ez rá segít arra, hogy ez az iskol, ez a legbelső stabil körpálya, közelebb húzódhat a feketékhoz, és már majdnem egészen az esemény horizontig elér, tehát már majdnem egészen az esemény horizont körül lehet stabil körpályán forogni.
+Hogyha természetesen ellentétes irányag a kettőnek a forgása, akkor egy kicsit kiebb húzódik ez az isko, és a legbelső stabil körpálya akár 9 Schwarzschild-sugar méretre is kivándorolhat.
+Tehát van nekünk egy ötletünk, hogy ezeket az akrétziós korongokat várhatóan meg tudjuk figyelni, hiszen a feketékokkal ellentétben ezek nem láthatatlanok.
+De hol keresünk őket vagyunk? Egy kis science fiction utalás.
+Mindenki látta a Star Wars-t.
+Szerintem, amikor a Tatooine bolygón figyelhettük először azt, hogy a túk vándorol méle búson, és a háttérben két nap lebukik egymás után, akkor mindennyian azt gondolhattok, hogy hú, ez milyen fantasztikusan jól néz ki, kettő dolog nap.
+Hát azt kell tudni, hogy az univerzumban ez egyébként egyáltalán nem egy ritka dolog, hogy mondjuk egy bolygónak akár két napja is lehet, ugyanis elég gyakoriak az úgynevezett csillagkettősök.
+A csillagok azok általában nem magányosan születnek, kis csillag bölcsödékben, és gyakran kettős, hármas, akár négyes rendszerek is kialakulhatnak.
+Most amikor két csillag mondjuk egy csillag kettős dalkot, akkor általában az ő tömegük nem egy teljesen egyforma.
+Bárpedig a különböző tömegű csillagoknak az életkora, vagyis az élet útja sem egyforma.
+A nagyobb tömegű csillagok azok általában, nem általában, mindig, hamarabb befejezik az életüket, hamarabb eljutnak mondjuk egy szupernó robbanásig, és feketejük lesz belőlük.
+Mondjuk, hogy elképzelhető egy olyan kettős rendszer, ahol az egyik csillag még végig is él egy csillagnapjait, a másik viszont már régen átlépte egy új korszakba és feketejük lett.
+Na, akkor keresünk ilyen kettős rendszert.
+Az első igazolt feketejük, amit így a történelmban azt mondhatunk, hogy a fizikus társadalom elismert feketejükként, ez a Cygnus X1 nevezetű kis rádió, rádió rönggenforrás volt.
+A rönggen az azért tőltünt egyébként egy jó ötletnek, hogy ez lehet egy feketejük körüli akréciós korongnak a sugázásra, hiszen azt mondjuk, hogy ez az akréciós korong, van az anyag, extrém módon fel tud hevülni, fel tud gyorsulni, pedig milliófokokról is beszélhetünk itt akár, és egy ilyen nagyon-nagyon nagy hűmérsékletű akréciós korongtól nagyon energetikus, tehát nagy energiájú fotónokat várunk, például rönggensugázást.
+És hát ahogyan elképzeljük, természetesen ez nem egy fotó, egy művészjábrázolás, tehát ahogyan elképzeljük, hogy mi történik a Cygnus X1-nél, tehát azt képzeljük, hogy ez egy kettős rendszer egyik tagja, ez a rönggensugázás, ez a feketejük körüli akréciós korongból jön, és van egy társa, akinek pedig egy ilyen szuper óriás csillag, kb.
+20-40 naptömegű, maga a feketejük pedig ilyen 15-20 naptömegű, és ráadásul a feketejük a partnerétől, ettől másik nagy csillagtól nyel el folyamatosan anyagot, emiatt alakul ki körülött ez az akréciós korong, és ennek a rönggensugázását figyelhetjük meg.
+Ez a felfedezés, vagy ez a felismerés, hogy tehát megtaláltuk mondjuk egy feketejük körüli akréciós korong sugázását, egy másik rejtélynek a megoldásához is segítette annól a csillagászokat.
+Volt egy olyan rejtély, amiben az 50-es évektől foglalkoztatta a csillagászokat, az astrofizikusokat, fizikusokat, ez pedig az úgynevezett kvazároknak a rejtélye.
+Találtak olyan objektumokat az égbolton, amelyek ránézésre teljesen ugyanúgy tűntek, mint a csillagok rendének.
+A csillag az hogy néz ki az égbolton? Egy egyszerű pontforrás.
+Ezen kívül vannak például a galaxisok, amelyek ilyen elmosódott foltként jelentek meg eleinte, aztán ahogy egyre jobb teleszkópokat építettünk, kitisztult a kép.
+De vannak ilyenek, amik pontforrásnak tűntek, viszont amikor megnézték, hogy milyen a spektrum, tehát hogy milyen eloszlásban jönnek a különböző fotonok, különböző hullámhosszú fotonok ebből a forrásban, akkor azt látták, hogy semmilyen másik csillagra nem hasonlít.
+Tehát valami, ami úgy néz ki, mint a csillag benne, de valószínűleg valami más.
+Ezért is nevezték el így, hogy kvázi csillag, vagyis kvazár.
+Később kiderült, hogy mik ezek.
+Például ha letakarták ezt a forrást, akkor kiderült, hogy a forrás körül van egy egész galaxis, csak ennek a galaxisnak a fénye nem látszódott korábban, amikor még ezt a forrást nem takarták le.
+Tehát kiderült, hogy ez a nagyon fényes pont egy galaxis kellős közepén, valami olyan fényes forrás, ami túl ragyogja a saját galaxisának az egész fényét.
+Egyébként nem csak ennyire fényes galaxismagok vannak, ezeket így összegyűjtő néven úgy nevezték el, hogy aktív galaxismagok.
+Ahogy körbenéztek az univerzumban, számos olyan galaxis találtak, amelynek a közepén valami történés volt, de általában ez lehetett kisebb, nagyobb intenzitású, és extrém esetben ennyire erős intenzitás, hogy túlragyogta a galaxisát.
+És később sikerült megválaszolni, hogy mik lehetnek ezek a misztikus fényforrások.
+Kiderült, hogy ezek is akréciós korongok.
+Tehát fekete lyukak körüli akréciós korongoknak a sugárzása akkora intenzitással, ami egy egész galaxis teljes fényességét túlragyogta.
+Kiderült, hogy ahhoz, hogy ez valóban igaz legyen, olyan fekete lyukakra van szükség, amink millió, sőt milliárdos naptömeggel rendelkeznek.
+Viszont, hogyha feltesszük, hogy ilyenek vannak, és ezeket úgy hívjuk, hogy szupermasszív fekete lyukak, akkor az ők körülöttük lévő akréciós korong sugárzása az tökéletes választathatott erre a kérdésre.
+Sőt, hogyha ez nem lenne elég lenyűgöző, hogy tényleg lehetnek olyan akréciós korongok az univerzumban, amelyek egy teljes galaxis fényességét túlragyogják, tehát akár száz milliárd csillag együttes fényét, akkor nézzük meg még ezt az ámbrát.
+Ugye az akréciós korong, amikor kialakul, akkor egyébként az akréciós korongokra merőlegesen, néha, helyenként úgynevezett jetek is kialakulnak.
+Ezek a jeteknek a kialakulása, ez még maiden nap egy kicsit kérdéses, de mindenki egyetért, hogy valahogy a mágnes esélyhez van közel, és nagy energiájú részecskéket lő ki két irányba az akréciós korongra merőlegesen.
+Ezek a jetek extrém esetben, akár, minthogy az ámbrán is láthatjátok, több száz ezer fényév, vagy akár egy millió fényév nagyságúra is nőhetnek.
+Az ámbrak közepén egy elliptikus galaxis látható, és a jetek, ezek az elliptikus galaxis középpontjából névő szupermassív fekete lyuk, akréciós korongjábólra merőleges jeteknek a nyomai, hihetetlen energetikus képződmények és hatalmas hatásuk van az univerzumra.
+De azért persze felmerülhet a kérdés, hogy mit, ha itt lett volna egy kicsit valami logikai ugrás.
+Eddig arról beszéltem, hogy a fekete lyukok, azok csillagok életének a végén, szupernova robbanás után megmaradó csillagmagok, mondjuk 10, 20, 30 naptömegűek.
+Ez pedig millió és milliárd naptömegűek, mintha lenne egy ugrás ebben a kettő között.
+Hát bevallom, ez egy olyan téma, ami a mai napig egyébként foglalkoztatja a csillágászokat és az astrofizikusokat, hogy hogyan nőhettek ekkora erre ezek a fekete lyukak.
+És a pontos választ még egyébként mindig nem találtuk meg, viszont azt már biztosan tudjuk, hogy ha körülnézünk, akkor szinte minden galaxis közepén található egy ilyen szupermasszív fekete lyuk.
+Vagy milliós, vagy milliárdos méretekben.
+Tehát bármíg a válaszunk tényleg nincsen meg egzaktú, de azért egy picit beszélnénk ról, hogy milyen ötletek merülhetnek fel.
+Természetesen az egyik alapötlet az, hogy oké, először születnek a kicsi 10, 20, 30 naptömegű fekete lyukok, aztán ezek valahogy szép nagyra nőnek.
+Mint láttuk, a fekete lyukak szeretnek táplálkozni, elnyelni anyagot, ez biztos, hogy növeli a tövegőket.
+Mi lehet még egy forrás a növekedésnek.
+Hallottunk ilyenről is, hogy fekete lyukak összeolvadnak, és akkor nagyobb fekete lyuk lesz belőlük.
+De azért valljuk be, hogyha 10-20-30 naptömegről indulunk, és milliós, milliárdos nagyságrendre szeretnénk, hogy felnőjjenek ezek, akkor az univerzum eddig élettartamámban 13,7 milliárd év alatt nagyon nagyra kellett, hogy nőjenek.
+Sőt, ilyen szupermasszív fekete lyukokat egyébként 10-13 milliárd év távolságból is látunk, tehát már akkor kellett, hogy legyenek ilyen nagyok.
+Tehát felmerül a kérdés, hogy valóban volt elég idő, hogy a nagyon piciből ilyen nagyra felnőjjenek.
+A másik, ami megkérdőjelezi ezt a teljesen a nagyon picitől felépülő forgatókönyvet, hogy ha valóban igaz, hogy a nagyon picitől indulva, folyamatos táplálkozással, összeolvadásokon keresztül, mi nőnek meg ezek a nagyok, akkor valahogy kellene látnunk köztes állapotokat.
+Márpedig mi sok száz mondjuk naptömeg alatti fekete lyukot látunk, meg nagyon sok millió milliárdos naptömege fekete lyuk ott a kettő között, csak elvétve egy-kettőt.
+Márpedig egy folytonos növelkedésnek minden fázisát meg kellene tudnunk figyelni az univerzumban.
+Úgyhogy ami egyébként jelenleg egy egészen ígéretes kutatásnak bizonyul, az az, hogy abból indulom ki, hogy eleve már valami nagyobb magja volt ezeknek a szupermasszív fekete lyukoknak.
+Egy lehetséges elképzelés, hogy a korai univerzumban, amikor még csak hidrogén és héliumból állt az univerzumb, és ráadásul nagyobb volt a sűrűség is, akkor lehet, hogy a mostani nál nagyobb csillagok is születhettek, például olyan úgynevezett szupermasszív csillagok.
+Ez egy nemrég kiadt szimuláció, ami azt próbálja megmutatni nekünk, hogy hogyan születhettek és hogyan alakulhattak ki a korai univerzumban úgynevezett szupermasszív csillagok.
+A szimulációk elős közepén a fekete pontok nem fekete lyukakra utalnak, hanem a szupermasszív csillagokra, és a láttok fehér pontjöket, azok pedig a normál méretű átlagos csillagok, és lehet látni, hogy ezek a szupermasszív csillagok egyre jobban nőnek már azzal, hogy anyagot nyelnek el igazából a környezetükből, sőt elnyelnek kisebb csillagokat, sőt ők is össze tudnak olvadni.
+Ha ez az elképzelés igaz, akkor ez azt jelenti, hogy a korai univerzumban akár 10.000 naptömegű csillagok is kialakulhattak, tehát sokkal nagyobb méretűek, mint a mai univerzumban, mert a napság inkább azt mondom, hogy nagyjából a 100-150 naptömeg az, ami igazán megfigyelhető.
+Ráadásul, hogyha egyébként ez igaz, hogy ekkora nagy tömegű csillagok kialakultak a korai univerzumba, a kezdetek kezdetén az első generációs csillagok között voltak ilyen extrém-nagyok, akkor az is elképzelhető, hogy ezek egyébként nem szupernova-robbanásban fejezték be az életüket, mert a bennük uralkodó nagy gravitációs erőhatására igazából még mielőtt befejezték volna teljesen a működésüket, lehet, hogy már akkor kialakult egy fekete lyuk a közepükön, és ez a fekete lyuk végül belülről falta fel ezeket a csillagokat, és lett akár egy 10.000 vagy több 10.000 naptömegű fekete lyuk mag, ami már a korai univerzumban is kialakulhatott.
+Valóban igaz-e ez a forgatókönyv? Hát ezt még meg kell hagynunk a jövő zenének, reméljük, hogy nem sokára megtudjuk.
+Mivel itt nagyon hangoztatom, hogy vannak milliós és milliárdos naptömegű fekete lyukak, így egy szupermasszív fekete lyukak, azért szeretném, ha éreznétek, hogy ez a két méret, ezt egymás mellé szoktuk rakosgatni, de azért nagyon különbözik.
+Tehát a millió és a milliárd között egy ezerszeres szorzó van, tehát például lehet akár egy ilyen rendszer is, mint amit az ember láttak, ami egy fekete lyuk kettős, abban a szemból, hogy egy 18 milliárd naptömegű fekete lyuk van középen, ez adja igazából a rendszer tömegének a nagy részét, és körülötte kering egy kisebb, kisebb 150 millió, mindössze csak 150 millió naptömegű fekete lyuk.
+Tehát akár ez is előfordulhat, hogy egy szupermasszív fekete lyuk, egy másik szupermasszív fekete lyuk körül kering, hogy egy helyenként ezeket a még nagyobb méretűeket már egyébként ultramasszívnak is szokták hívni, hogy egy kicsit érzékeltessük, hogy nagy és nagy között is van különbség.
+Na akkor tehát, tegyük fel, hogy elfogadjuk ezt az egyszerű tényt, hogy galaxisok közepén van egy szupermasszív fekete lyuk.
+Felmerül a kérdés, hogy akkor a mi galaxisunk elős közepén is található egy ilyen szupermasszív fekete lyuk.
+Hát először is egyébként a mi galaxisunk közepét nehezebb volt megtalálni, mint mondjuk más galaxisok közepét, hiszen mi benne vagyunk ebbe a galaxisba.
+Először fel kell térképezni ezt az egészet ahhoz, hogy megtaláljuk, hogy egyáltalán hol van a közepe.
+De sikeresen ezt abszolváltuk, és hát az első jel, ami onnan érkezett, az egy nagyon enyhely rádiójel volt.
+Látható, hogy ott valami van a galaxis közepén, ami sötét fekete, nagyon enyhely rádiósugárzást bocsált ki.
+Ami biztos, hogy ha van is ott egy feket lyuk, akkor ez nem egy olyan, mint mondjuk a kvazár, hogy nem egy aktív galaxis mag, nem nagyon van ott semmi aktivitás.
+Valószínűleg, ha van fekete lyuk, nem túl sok anyagot jelent, tehát nem túl látványos ez az akrécíos korog.
+Valószínű, hogy ha igazán aktív korszakában lenne, akkor akár szabad szemmel is tudnánk ezt látni.
+Viszont azért nézzük meg a galaxis középpontját, ha valami más ráutaló jelet találunk egy fekete lyukra.
+Ebben a videóban azt lehet látni majd, hogy sok éven át, 1992-től egyébként napjainkig folyamatosan vizsgálják, hogy a galaxis középpontjában lévő csillagok hogyan mozognak.
+A csillagok mozgását követve látható, hogy vannak csillagok, amelyek nagyon szép elipszis pályára mozognak, sőt, ha elég sokáig várunk, akkor igazából mindegyiknél kirajzolódik az elipszis pálya, és az lehetató, hogy középen valami fekete térrész körül mozognak ezek a csillagok.
+Bárpedig a gravitációs törvényekből tudjuk, hogy akkor ott valami tömegnek kell lennie.
+A csillagok tömegét egyébként könnyebb megbecsulni, arra elég jó módszereink vannak.
+A csillagok mozgásából meg tudjuk becsülni, hogy kb.
+mekkora tömegnek kell ott középpel lennie.
+Sőt, azt is meg tudjuk mondani a csillagok mozgásában, hogy mekkora térrészen kell, vagy maximum mekkora térrészen helyezkedhet el ez a nagy tömegű anyag.
+És hát emiatt feltételezzük, hogy valóban ott elének kell, hogy legyen egy szupermasszív feketejük, hiszen hatalmas nagy tömegről több mint 4 millió naptömegnek kell ott elhelyezkednie, és egy nagyon pici naprendszernek megfelelő mennyiségű térfoglalban.
+Tehát valójában így tudtuk bebizonyítani, hogy a saját galaxisunk közepén is van egy szupermasszív feketejük, és így ezzel el is érkeztünk a második olyan módszerhez, amivel feketejükokat tudunk vizsgálni.
+Ez pedig a feketejüknak, főleg egy szupermasszív feketejüknak a közeli csillagokra gyakorolt hatása.
+A mi galaxisunk közepén egyébként ez a csillag, amit az ámbrá látható, ez az, amelyik a legjobban megközelítette a feketejüket.
+Ennek a legközelebbi távolsága az a földnaptávolság, ennek a 120-szorosa, tehát viszonylag közel sikerült ez a szupernagytömegű feketejükhoz mennie.
+És pontosabb vizsgáltatók után azt mondhatjuk, hogy 4,6 millió naptömegű a mi galaxisunk közepén a feketejük.
+Tehát szupermasszív feketejük viszonylag van egészen pici.
+Minden esetre ez egy elég lenyűgöző teljesítmény volt, úgyhogy nem hiába a fizikai Nobel-díj másik felét, aminek az egyik felét Roger Perros kapta, az a két kutatócsoport kapta, Andrea Gans és Reinhard Gansz-el vezetésével, akik a galaxisunk közepén lévő feketejük körüli csillagok mozgását figyelték az elmúlt évtizedek alatt.
+Azért felmerülhet a kérdés, hogy most azt látjuk, hogy a mi szupermasszív feketejükünk nem egy aktív galaxismag, tehát nem történik aktív anyagelnyelés.
+De van ilyen történt-e ilyen már korábban, vagy lesz-e esetleg ilyen a jövőben? Az, hogy történt-e ilyen a múltban, arra elég jó bizonyítékunk van, ugyanis meg lehet figyelni a galaxis fölött és alatt, mert hogyha vizszintesnek képzeljük el ezt a teljutrendzet, ilyen nagy buborékokat, amiket felmibuborékoknak neveznek, ezeket gammasugárzásban figyelték meg, és ezek a hatalmas buborékok arra utálnak, hogy valószínűleg a múltban volt egy ilyen korszak, amikor a feketejük a galaxis közepén éppen aktív korszakát éltetett, aktívon nyerte anyagot a környezetéből, az akrénciós korangra merőlegesen kialakultak a dzsettek, és ezeknek a dzsetteknek a nyoma az, ami most egy ilyen buborékformájában mai napig tágul.
+Az, hogy lesz-e ilyen a jövőben, amikor aktív? Erre meg annyit tudok mondani, persze spekulatív, de 4,5 milliárd éve múlva a mi galaxisunkat előtt egyszer össze fog utközni az Andromédával, egy másik galaxissal a közelünkbe, és várható, hogy amikor ez a két galaxis összeütközik, az annyira meg fogja itt kicsit keverni, kavarni a dolgokat, hogy valószínűleg akkor majd lesz egy olyan korszak, amikor a feketejük, a szupermasszív feketejünk találja lég anyagot, ahhoz, hogy elnyeljen kialakulj az akrénciós korang, és megint lesz egy aktív galaxis-magkorszakunk.
+Lehet, ezt majd végig meglátjuk, már csak 4,5 milliárd évet kell várni, úgyhogy már is itt van.
+Na, akkor a harmadik módszer, amivel feketejük akart meg tudunk figyelni, az úgynevezett gravitációs láncsézés.
+Az abszolút Einstein általános lehetővítás elméletének az eredménye, ugye azt mondtuk, hogy egy gravitáló tömeg meggörbíti maga körül a téridőt.
+Most ebben a görbő téridőben a fény is görbőt útvonalon halad.
+Tegyük fel, hogy van nekünk két gravitál tömegünk, itt most az ábrán láttok középpen egy galaxis, meg mögött egy másik galaxis.
+A hátsó galaxis normál esetben nem látnánk, hiszen eltakarja az előtte lévő galaxis.
+Viszont a görbő téridőben a hátsó galaxisból érkező fénysugarak, azok elhajolnak, és hozzánk is el tudnak jönni.
+Tehát a középső, vagyis hozzánk közelebbi galaxis úgy viselkedik, mint egy ilyen gyűjtőláncsa, összegyűjti nekünk a le a fényt, ami mögötte, vagy ami mögüle indul a hátsó galaxisból.
+És ezért számunkra láthatóvá válik a hátsó galaxis képe is.
+Az első galaxis képe körül, mint hogy ott azt hátul láthatjátok.
+Azt gondoljátok, hogy ez csak egy szimulációs hír, nincs a valóságban, mutatok egy nagyon szép ábrát, ez egy Einstein gyűrűnek nevezett jelenség.
+A közepén lévő galaxis, az eltorzította a mögötte lévő galaxis képét, és szinte egy teljes kör, egy teljes gyűrű alakult, kikörülötte.
+Tehát ez a jelenség létezik.
+Persze azért felmerülhet bárkiben, hogy mennyi a valószínűsége annak, hogy pont egymás mögött van két galaxis, és mi ezt pont látni fogjuk, vagy hogy egyetlen, bármilyen két gravitál objektum pont egymás mögött van.
+Hát azt kell mondanom, hogy bizonyos szempontból pici a valószínűsége, hogy ezeket pont elkapjuk.
+De az univerzum olyan hatalmas, nagy, hogy teljesen mindegy, hogy egy jelenségnek mennyire pici a valószínűsége, biztos, hogy nagyon sokszor be fog következni, és mi valószínűleg nagyon sokszor meg is tudjuk ezt figyelni.
+Most ez a módszer akár fekete lyukak megfigyelésére is használható.
+Ebben az animációban ez a kék pötty, az jelenti a fekete lyukat, csak hogy lássatok, éppen kékkel van jelölve.
+Tegyük fel, hogy egy ilyen fekete lyuk elhalad egy csillag előtt.
+A csillag, ami mögötte van, annak a fényét azt elhajlítja, mint egy gyűjtőlencse felénk irányítja, és emiatt ennek a hátsó csillagnak a fény egy pillanatra fel tud villanni.
+És ezt a felvillanás arra tud utalni, hogy pont ott átment egy fekete lyuk.
+Tehát ilyen felvillanásokat is tudunk keresni, és bármennyire is kicsinek tűnik a valószínűség, hogy találunk is.
+És egy ilyen módszerre például sikerült nem olyan régen, mint egy 55 ezer naptömegű fekete lyukat kiszúrni egy gamma-kitörés fényében.
+Egyébként a gamma-kitörés fényét annyiból érdemes megnézni, hogy milyen sorszámot kapott.
+Ez egy 95-ös kezdetű gamma-kitörés, tehát ezt 95-be figyelték meg, lehet, hogy mai napig dolgozzák fel ezeket az adatokat, és most sikerült találni például ebben az adatsorban egy fekete lyukra utaló jelet, egy ilyen gravitációs lentzse hatásban.
+Na akkor, következően szerintem mindenki egyik nagy kedvence, hogyan figyelhetünk meg fekete lyukakat? Gravitációs hullámokkal.
+Elárulom, hogy nem sokat fogok most gravitációs hullámokra beszélni, ugyanis az előadást követni fogja egy kísérleti bemutató, és a kísérleti bemutatóban gravitációs hullámokat fogunk nektek bemutatni, úgyhogy ha érdekeltiteket, akkor maradjatok és hallgassátok és nézzétek meg.
+Ezért egy pár mondatot mondok én is róla.
+Miből indul ki ez az egész ötlet, hogy gravitációs hullám? Ugye azt mondtuk, hogy a tömegek a téridőbe helyezve azok meggörbítik maguk körül a téridőt.
+Most ha két tömeg egymás körülkering, akkor a téridők görbületének periódikus változása miatt egy ilyen hullám jelenség alakulhat ki.
+Elméletileg ez bármilyen két tömeg körül kialakulhat, hát mondjuk egy táncoló ember pár körül is, csak nagyon-nagyon pici ez a jelenség, úgyhogy nem nagyon fogjuk ezt tudni kimutatni.
+Amikor egy kicsit nagyobb ez a gravitációs hullám, az akkor van, amikor ilyen extrém téridőgörbületekről beszélhetünk.
+Tehát például, amikor két neutroncsillag vagy két fekete lyuk kering egymás körül, ott már ennek lehet látható, mérhető hatása.
+Azért ez sem túl nagy hatás, halljuk be.
+Az ilyen gravitációs hullámokat itt a Földön ilyen gravitációs hullámdetektorokkal szokták vizsgálni.
+Ennek a LIGO-nak, amit itt a képen látok, kettő darab karja van, mindegyik 4 km hosszúságú.
+Amikor áthalad ezen egy gravitációs hullám, akkor megpróbáljuk picit nektek ezt így érzékeltetni, hogy valami ilyen jellegű mozgás várható, amikor az emberen áthalad egy gravitációs hullám.
+Tehát amikor ezen a detektoron is áthalad, akkor egymásra melleges két karban azt várjuk, hogy ilyen kis, nagyon minimális hossz különbségek alakulnak ki.
+Az, hogy mennyire minimális, azt itt mutatom az emberen.
+Körülbelül a proton méretének ezeres szeresét szeretnénk kimutatni a 4 km-es karok hossz változásában.
+Extrem pici.
+Én bevallom hősiesen, amíg nem jött a hír 2015-ben, hogy az első sikerült detektálnunk, addig nem is voltam teljesen meggyőződve arról, hogy mi erre képesek leszünk a közeljövőben.
+Annyira hihetetlen teljesítménynek tűnt.
+De a technika és a tudományfejlődés az néha nagyon hihetetlen eredményeket tud hozni.
+Én esetre nem csodálom, hogy 2017-ben fizikai Nobel-díjjal tüntették ki a LIGO kollaborációt és a fő alakjait Kipton, Treyner-Weist és Barry-Barrist.
+Na hát akkor jöjjön az ötödik módszera, hogy fekete lyukakat meg tudunk figyelni.
+Az én kedvencem, le lehet őket fotózni.
+Persze még mindig a fekete lyukak definíció szerint láthatatlanok, tehát nem magától fekete lyukat fotózunk le, de akkor vajon mit? Ennyiébként ennek a fotónak az elkészüléséről a tavalyi atomcsillévadban volt egy nagyszerű előadás, úgyhogy ezt mindenkinek hajálom figyelmébe.
+De egy pár dolgot én is szeretnék elmondani erről a fényképről.
+Elsősorban azt, hogy mi az, amit látunk, vajon ez onnan képen? Ahhoz, hogy ezt megértjük, szerintem a legjobb út az, hogyha kicsit felelevenítjük a Csillagok között című filmet.
+Remélem sokan láttátok, ebben a Csillagok között című filmben volt egy csodálatos megjelenítése egy fekete lyuknak.
+Ez rengeteg tudományos alapot, rengeteg tudományos eredmény van ebben a filmben, és ez nem hiába azért, mert Kipton volt az egyik tudományos tanácsadója a filmnek.
+Most ez a megjelenítése a fekete lyuknak, ez érdemes megvizsgálni, hogy pontosan mit látunk ezen a képen.
+Először próbáljuk meg kicsit talán trükkös lesz az elképzelés, de azért próbáljuk meg felépíteni.
+Először elkezdhetjük meg, hogy mi van egy fekete lyuk környezetében.
+Van középen a fekete lyuk, az eseményhorizont, ami kívülről a megjelenését meghatározza a fekete lyuknak.
+Van az akrétciós korong, ugye az akrétciós korong nem nyúlik be egészen a fekete lyukig, hiszen van egy ilyen legbelső stabil körpálya, ameddig elérhet.
+Az Ábrán egyébként most az egyszerűség kedvéért egy nem forgó fekete lyukról van szó, ezért a legbelső stabil körpálya 3 sfarcsai csugárnál van, és van egy ilyen rész például a 1,5 sfarcsai csugárnál, tehát másfél sfarcsai csugárnál, amit úgy hívunk, hogy a fotongömb.
+Na ez az a rész, ahol, hogyha odaelnek, akkor látnánk a saját hátunkat, ugyanis ez az a rész, ahol a fény az körbe tud keringeni a fekete lyuk körül.
+Na hát ezekből, mint itt a sablónus ábrán láttok, a fekete lyuk magát ugye nem tudjuk látni, az akrétciós korongot elvileg igen, hiszen tud világítani, illetve a fotongömböt is, hiszen a fotongömbbe csapdázódhatnak fotonok, azok keringenek körbe-körbe, de ez mivel nem egy stabil állapot, előbb-utóbb kifognak szökni onnan, és akár eljutnak hozzánk is.
+Viszont most kicsit játszunk el a gondolattal, hogy mi lenne, ha tényleg látnánk magát, a fekete lyukat, tehát az eseményhorizontat.
+Tegyük fel, hogy az eseményhorizont csugároz.
+Hipotetikusan, természetesen nem csinálják, de hipotetikusan tegyük fel, hogy hipotetikus fotonok érkeznek az eseményhorizonttól.
+Ez az ábra mutatja, hogy milyen útvonalakon tudnának ezek a fotonok hozzánk érkezni.
+Tehát magában az eseményhorizontban, tegyük fel, hogy minden irányba csugároz az eseményhorizont, minden irányba rökködnek a fotonok.
+Ez az ábra azokat a fotonokat mutatja, amelyek eljutnak hozzánk a megfigyelőhöz.
+Látjátok, ezzel a szemmel jelöltem, hogy melyik oldalról nézzük mi az ábrát.
+Na akkor látjuk, hogy vannak olyan fotonutak, amelyek az eseményhorizontból közvetlenül hozzánk érkeznek, az eseményhorizont felénkeső oldaláról.
+Ez természetes, ezt várhatjuk is, látjuk az eseményhorizont felénkeső oldalát.
+De vannak olyan fotonútvonalak, amelyek az eseményhorizont hátsó részéből érkeznek hozzánk.
+Tehát az eseményhorizont tőlünk elzárt, hátsó feléből induló fotonok, azok az extrém térelhajlás miatt el tudnak hajolni annyira, hogy egészen a miszálmunkba érkeznek, tehát hogyha lennének-jenek, ezeket is látnánk.
+És egészen 2,6 db falcs és sugárig a középponttól mérve csak ilyen fotonok érkeznek hozzánk, amelyek valahonnan az eseményhorizont felszínéről indulnának.
+A legelső olyan foton, ami nem az eseményhorizontból indul kése miatt, nem csak hipotetikus, mert ugye minden, ami az eseményhorizontból indul, az hipotetikus.
+Az első olyan, az 2,6 db falcs és sugárnál van.
+Ez egy távolról érkező foton, ami valahogy oda keveredik, körbe megy pont a fotongömbbe, és aztán kiszabadulva elérkezik hozzánk.
+Tehát amikor ránézünk egy ilyen fekete lyuk fotóra, az a középső fekete rész, a fekete lyuk árnyékának nevezett dolog, az valójában nem más, mint igazából ez a 2,6 db falcs és sugaru gömb, ahol azok a fotonok jönnének, amik az esemény horizontból indulnának ki.
+De mivel nem néteznek ilyenek, ezért van az, hogy egy fekete árnyéknak látjuk őket.
+A fekete árnyék körüli ugye első fényes karika az azok a fotonok, amelyek valahonnan, bárhonnan érkeztek, csapdázódtak a fotongömbbe, és aztán kiszabadulva a 2,6 db falcs és sugárnál hozzánk érkeznek.
+Tehát maga az ábra a fekete lyuk árnyéka, és körülötte a fotongömb felnagyított, optikailag felnagyított képe.
+Hogy még egy kis textúrát adjak a dolognak, hogy segítsek megérteni, mit is látunk.
+Tegyük fel, hogy beszínezem kékre a fekete lyuk hátsó oldalát.
+Tehát valahogy meg tudom különböztetni a fekete lyuk első, felém első oldalát a hátsó oldalától.
+Hogyha itt tudnám, tehát meg tudnánk csinálni, és tényleg kékre tudnánk festeni a fekete lyuk hátsó oldalát, akkor valamilyen képet látnánk egyébként.
+A tőlünk nézve középen van maga az esemény horizont első oldala, körülötte egy karikában látjuk azokat a fotónokat, amelyek a hátsó oldalából érkeznek, aztán megint egy karikában, amik megint az első oldalában, és így tovább.
+Tehát valójában mi ezen az árnyékon, ezen a 2,6 db falcs és sugárú árnyékon, magát az esemény horizontot minden oldalról látjuk.
+Előről, hátulról, sőt, így ezzelból végtelen sokszor ilyen karikákra bontva.
+Tehát eszméletlen, remélem, hogy számotokra is lenyűgöző maga ez az egész konstrukciós elképzelés.
+Na hát akkor visszatérve ide a csilagok között fekete lyukhoz, ez az, amit középen látunk, tehát ez a középső fekete karika, ez a fekete lyuk árnyéka, tehát az esemény horizont minden oldalról nézve, körülött a első fényes karika pedig a fotongömbnek a felnagyított képe.
+Na akkor mi van még ezen a képen? Rengeteg más is látszódik, hogy ott mellett a sugároz.
+Ezek igazából nem másnak a fényei, mint magának az akrétiós korongnak a fényei.
+Ugye a fekete lyuk köré, itt az Interstellar és a csilagok között filmkészítei, oda raktak egy ilyen korongot, inkább olyat, mint a Szatónusz körüli gyűrű, tehát egy ilyen gyűrűt, és azt mondták, hogy ez a gyűrű, ez maga az akrétiós korong, nagyon szépen fénylik ott a filmen, viszont az extrém elhajlások miatt, mert ugye a fekete lyuk környezetében extrém módon el tud hajolni a fény, ezért valójában a Szatónusz gyűrűjétől ellentétben mi látjuk magát az akrétiós korognak a hátsó oldalát is, ami ugye más normál esetben elbújna a fekete lyuk mögött.
+Amit látunk ott ezen a képen, az az, hogy az akrétiós korong hátsó oldaláról érkező fotonok elhajlanak, és azért mi úgy látjuk ezt a hátsó részt, mint hogyha ugye a fekete lyuk fölött is alatt megjelenne.
+Tehát a fekete lyuk fölött az akrétiós korong hátsó oldalának tetejét látjuk, fölülről nézünk rá, a fekete lyuk alatt pedig az akrétiós korong mögött hátsó oldalának alusú részét látjuk, tehát alulről nézünk rá, mint hogyha ezt az akrétiós korongot hátul így valaki kihajtotta volna két irányba.
+A jobb-alsó sorokban lévő animáció az pedig csak azt mutatja, hogyha különböző oldalakból néznénk erre az akrétiós korongra, akkor mit látnánk.
+Visszatérve ide, a csillagok között rábrára, tehát ez a teljes kép, ugye látjuk magát az akrétiós korongot minden oldalról, az esemény horizontot minden oldalról, sőt még annyi tudományoság is pluszban extra van ezen a képen, hogy a baloldali fele ennek a két neki kicsit fényesebb, mint a jobboldali.
+Ez azért van, mert az akrétiós korongban az anyag nagyon gyorsan, szinte relativisztikusan közelfénysebességgel szángul.
+Márpedig ilyenkor relativisztikus hatások is fellépnek, és az az anyag, ami felénk áramlik, az fényesebbek tűnik, mint az az anyag, amelyik tőlünk másik irányba áramlik.
+Emiatt van ez a fényesség különbség.
+Azt azért hozzáteszem, hogy bár abszolút fontos a tudományos alapja ennek a képalkotásnak, amit itt a filmben látunk, és ebből tudományos publikációk is születtek, a filmben végül nem ez került be.
+Megmutatom mi volt.
+Így nézett ki természetesen a filmben.
+Hollywoodnak az eleleti tudományos verzió nem volt elég chili-wili, egy picit ráadoptak egy-két textet, de nem baj, az alapja az teljesen jó.
+Na akkor, messzejünk még pár szót tényleg magáról, arról a feketelyük fotóról, ami 2019-ben sikerült lefotózni.
+Azt a feketelyüket, amiről tényleg az első fotó elkészült, a Messier 87 Galaxies-ban fotózták.
+Ennek a Galaxis-nak, mint látható azon a képen, van egy nagyon látványos jetje.
+Ez a jet, ez tényleg egy ilyen nagyon éles vonalban megfigyelhető jelenség.
+Ezt már 1915-ben kiszúrták, hogy ott van valami vonal.
+Csak akkor persze még nem tudták, hogy egyetlenen, akkor még azt se tudtuk, hogy vannak másik galaxisok.
+Hogy ez például egy távoli galaxis, meg azt se tudtuk, hogy a közepén van egy feketelyük.
+De maga a jet már akkor is láthatóvel volt.
+És ha erre elközelítünk, akkor eljöttünk, hogy tényleg a tövénél van ennek is egy feketelyük.
+Ennek a feketelyüknak van egy akréciós korongja, az pedig intenzíven világít.
+És ennek a feketelyüknek a közvetlen közeléről sikerült elkészíteni ezt az első feketelyük fotót, ami végül így nézett ki.
+És az Event Horizon Telescope készített el.
+Most miért tűnik ez mégis másnak, mint amilyen mondjuk a csillagok közötti kép volt? Ne felejtsük el, hogy ez a kép itt maga igazából az interstell, tehát a csillagok közötti feketelyükhoz hasonlítva, a fotongömbnek a felnagyított képe.
+Tehát ez az a része annak az ábrának, ami a feketelyük ádnikát közvetlenül körbeöleli.
+Tehát azoknak a fotónoknak a nyomát látjuk, amelyek valahonnan érkeztek a feketelyük közé, köré csapdázottak ebbe a fotongömbbe, keringtek jobbra-balra, majd aztán elérkeztek hozzánk.
+Körülbelül valami ilyesminek kellene lennie.
+Amiatt nem egy ilyen nagyon egysíkú és nagyon egyszerű fotongömb felnagyított képét kell elképzelni, mert ez egy forgó feketelyük természetesen, az előbb pedig az egyszerűség kedvéért egy álló feketelyüket képzeltünk el.
+Tehát valami ilyen ábrának kellene lennie, hogy miért lesz ebből mégis a kép olyan, mint egy fánk.
+Hát egyszerűen azért, mert ilyen a felbontásunk.
+Kicsit jobb felbontással már valami ilyen szép képet érhetnénk el.
+Most mielőtt azt mondanánk, hogy de hát ez most miért nem lehet jobb felbontást csinálni, azért bájjuk be, hogy ez a felbontás is már extrém teljesítmény volt.
+A kutatók részéről, hiszen erről a feketelyükről készült kép, az olyan volt, tehát akkor a felbontást kellett elérni, mint hogyha egy fánkot akarnánk lefotozni a holt felszínén.
+Ahhoz, hogy egy ilyen felbontást elérjünk, az igazából semmi máson nem volt szükség, mint egy egész bolygó, tehát egy földméretű teleszkópra.
+Most egy földméretű teleszkópot építeni azért bájjuk be nem túl ságosan egyszerű, úgyhogy azért jó, hogy a csillagászok előálltak egy ötlettel, és igazából több rádió teleszkopot a föld különböző pontjain összekötöttek nagyon precíziós technológiával, és ezzel együtt dolgozó rendszerrel egy földméretű virtuális teleszkópot szimuláltak igazából, és így sikerült ezt a képet megalkatni, és így sikerült ezt a pontoságot elérni, és ezt a felbontást.
+Reméljük, hogy a jövőben még ennél is izgalmasabb képek fognak jönni a fekete lyukakról.
+Tehát azt biztosan állíthatjuk, hogy öt különböző módon meg tudtunk figyelni az elmúlt években a fekete lyukakat, tehát biztosan állíthatjuk, hogy ezek nem fikciók többé, hanem tudományos valóság részei.
+Fekete lyukak léteznek.
+Most ha elfogadjuk ezt a dolgot, hogy a fekete lyukak léteznek, akkor persze felmerül a kérdés, hogy, legalábbis amit tőlem mindig szoktak kérdezni, amikor fekete lyukakról beszélek, hogy ne elgyek, akkor most kell félnünk a fekete lyukaktól.
+Be fog minket szippantani egy fekete lyuk valamikor a jövőben? Elerülöm, hogy azért egyelőre nem kell ettől félni.
+Egy pillanatra beszéljünk erről.
+Tehát például a galaxisunk közepén van egy szupermasszív fekete lyuk.
+Kell félnünk attól, hogy előbb-utóbb ez minket beszippant? 4,6 millió naptömeg.
+Az az igazság, hogy hiában extrém nagy a méretet, tehát 4,6 millió naptömeg a mi emberi viszonylatunkban, sőt a naprendszer viszonylatában is hatalmas, de az egész galaxis teljes tömegéhez képest elhanyagolható.
+Tehát nem az ő gravitációs hatása az, ami számunkra bármilyen szempontból is érződik a világnak ezen a pontján, tehát nem, egyelőre nem fog minket beszippantani ez a központi fekete lyuk.
+Az, hogy a nagyon-nagyon gigantikus távoli jövőben mi lesz, azt azért nem vállalok felelősséget.
+Ha valakit érdekelnek a részletek, akkor nézne meg Déjjének a szeptemberi előadását, a következő 135 quintillió évcímet viselő előadást.
+Ott azért kiderül, hogy lehet, hogy a nagyon gigantikusan távoli jövőben mégiscsak ebben a fekete lyukban fogunk igötni, de ez nem mostanában fog bekövetkezni.
+Úgyhogy egyelőre ne féljünk tőle.
+Jól van, de hát tudjuk, hogy vannak csillagtömegű fekete lyukak is.
+Csillagtömegű fekete lyukak lehet, hogy hozzánk közelebb is léteznek.
+Kell vajon félni tőlük, hogy esetleg beszippantanak minket? Képzeljük el azt, hogy a naprendszerben a központi napot ezt egyszerűen átalakítjuk fekete lyukkára.
+Tegyük fel, hogy képesek vagyunk ilyenre.
+Mit történne abban az esetben, hogyha ezt a napot kicserjelnénk egy ugyanakkora tömegű fekete lyukra? Elerőlöm, hogy nem sok minden.
+Ugyanis a bolygók mozgása teljesen ugyanolyan lenne.
+Az, hogy most középen egy nap van, vagy egy fekete lyuk, az egyáltalán nem befolyásolja azt, hogy például az általában kialakított gravitációs hatást a naprendszernek ezen a pontján.
+A bolygók mozgások ugyanolyanok lennének, ugyanúgy keringenénk a nap körül.
+Az persze egy másik kérdés, hogy természetesen halára fagynánk, tehát valószínűleg így is meghallnánk.
+De eltöbb függetlenül nem szippantanak be minket a fekete lyuk.
+Na akkor mi az, amitől esetleg még az emberek szoktak félni? Általában, ami szintén egy ilyen félelem tárgya az, hogy mi történik akkor, ha a cernben felbukkodnak ezek a fekete lyukak.
+Ugye a cernben szokták mondani, hogy ha nagyenergés ütközéseket csinálunk, akkor előfordulhat olyan is, hogy egy fekete lyuk éppen kialakul.
+Kell ettől vagyon félnünk? Elárulom, hogy mindaz, amit a cernben csinálunk, tehát azok a nagyenergés ütközések, amik ott történnek, azok egyébként nem annyira természetellenesek, tehát nem csak mi kreálunk ilyeneket, igazából ilyen nagyenergés ütközések folyamatosan történnek a felső régrétekbe például, hiszen a Földet folyamatosan bombázzák nagyenergiai kozmikus sugarak, és ezek beleütközve a felső régrétekbe hasonló reakciókat csinálnak.
+Tehát valójában akár oda föntre is elhelyezhetnénk a cerndetektorait, és ott is vizsgálhatnánk, hogy mi történik, csak hát ez nem túl praktikus, mert ezek ugyanilyen épület méretű detektorok, tehát annyira nem könnyen tudjuk felrakni őket a magas légkörbe.
+Úgyhogy egyelőre a Föld alatt építjük ezeket a detektorokat, de nem kell semmilyen től félnünk, hogy valami ilyen reakció, vagy ilyen dolog történik, ami máskor ne következhetne be a természetbe.
+Sokan azt mondják, hogy tök izgalmas lenne, ha tényleg Fekete-jük a kialakulnának, hiszen rengeteget tanulhatnánk magáról az univerzum felépítéséről, vagy arról, hogy hány dimenzióban élünk valójában, és miért nem látjuk nyomát.
+Ha mégiscsak felbukhannak egy Fekete-jük, azért nem kellene félnünk tőle, mert pillanatok alatt el is tűnne.
+Ez azért kérdést vett fel.
+Eddig azt mondtam, hogy Fekete-jükkak azt tudják csinálni, hogy elnyelnek dolgokat.
+Hogyan tudnak eltűnni? Hogyan tud egy Fekete-jük eltűnni? Az az igazság, hogy eltudnak.
+És a Fekete-jükkak párolóknak.
+1974-ben Hawking állt elő először ezzel az elmélettel, a Hawking sugárzás elméletével.
+A Fekete-jükkak valójában sugároznak, párolognak, és el is tudnak tűnni.
+Ha arra gondoltok, hogy ez kicsit ellentmond mindannak, amiről eddig beszéltem, akkor részben jól gondoljátok.
+Általáos lehetőségtelművítés elméletből kiindulva egyáltalán nem kellene, hogy ilyen folyamat bekövetkezhessen, vagy hogy a Fekete-jükkak bármilyen módon eltűnhessenek a világunkból.
+Viszont van egy dolog, aminek a Fekete-jükkak se tudtak ellenelni, ez pedig a fantúmtér elmélet.
+A Hawking pedig előállt egy olyan zseniális ötlettel és egy olyan levezetéssel, ami megmutatta, hogy valójában tényleg tudnak párologni.
+Ennek van egy komplex magyarázata, amiről gondoltam először, hogy beszélek, de már így is nagyon régóta dumálok, úgyhogy sajnos a mai napon időszüke miatt csak az egyszerűbb képet szeretném elmesélni nektek.
+Ezzel a magyarázattal még amúgy maga a Hawking ált elő, hogy könnyen érthetővé tegye az emberek számára ezt a folyamatot.
+Ez az egyszerű kép úgy hangzik, amire épül az maga a vákum.
+A vákumot úgy képzeljük el, hogy nincsen benne semmi, teljesen üres, abszolút nincsenek benne részletkék.
+Viszont, ha ilyen persze nem tudunk csinálni nagyon a földön, földi körülmények között, meg máshol is, tényleges vákumot létrehozni nem nagyon lehet, de tegyük föl az elmélet kedvéért, hogy lehet.
+Fogunk egy dobozt, az összes részletkét kipakoljuk belőle, és teljesen üres teret kreálunk.
+Aztán belenézünk a dobozba, és mire jövünk rá, hogy itt még mindig randdal íróznak a részletkék.
+Mi történik? A vákumban folyamatosan részletke-antirészletke párok egyszer csak előjönnek, életre kelnek, majd persze aztán megérnek, körbenéznek, és utána annyihilályak egymást is eltűnnek.
+Ezt persze azt gondolhatjuk, hogy ellentmond az energiamegmaradástörvényének, de valójában nagyon-nagyon piti időszakokra ezek a részletkék tudnak elcsórni energiát a vákumtól.
+Pillanatra elcsórják ezt az energiát, létrejönnek, majd utána újra eltűnnek.
+Ez a folyamat folyamatosan zajlik körülöttünk, bennünk mindenhol.
+Most akkor miért ne történhetnének ezek a folyamokat egy fekete lyuk környezetében is? Gondoljuk arra, hogy egy fekete lyuk eseményhorizontja környezetében történnek ezek az események.
+Részecske-antirészecske párök.
+Előbukkanna, majd eltűnnek.
+Tegyük fel, hogy előbukkan egy részecske-antirészecske pár, de az egyik például elnyelődik a fekete lyukba, és mivel tudjuk, hogy a fekete lyukból nincs kiút, ezért mondjuk azt, hogy ő már biztos, hogy nem tud visszajönni, és nem tud újra találkozni a párjával.
+Ezért a másik részecske az egyszerűen megjelenik, mint egy valódi részecske, ami úgy tűnik egy táboli szemlélő számára, mintha a fekete lyuk párolgott volna el, vagy a fekete lyukból érkezett volna ez a részecske.
+Természetesen energiát nem tudunk a vákumtól tényleg hosszú időre kölcsönözni, csak nagyon rövid időre.
+Ennek a részecskének a megjelenése, ez a plusz energia az univerzumban, ez egy olyan tartozást, amit valakinek meg kell fizetnie, és ezt a tartozást a fekete lyuk fizeti meg.
+Tehát maga a fekete lyuk fogja a saját energiáját beváltani ebben a cseret-tranzakcióban, és a fekete lyuknak a tömeg energiája fog csökkenni.
+Tehát távolról nézve ez az egész folyamat úgy néz ki, mintha tényleg a fekete lyukból érkeznének részecskék a fekete lyuk párológra.
+Ez az, amit Hawking-sugárzásnak nevezünk.
+És, ami szintén nagyon érdekes, hogy ennek a sugárzásnak megmérte, vagy kiszámolta Hawking a spektrumát, és tökéletesen megegyezett egy hőmérsékleti sugárzás spektrumával.
+Tehát olyan, mintha a fekete lyuknak hőmérséklete lenne.
+Az, hogy mekkora ez a hőmérséklet, és hogy mekkora intenzitású Hawking-sugárzást várunk a fekete lyukaktól, akkor azért érdemes egy picit megnézni, hogy milyen fekete lyukokat ismerünk.
+Elhozom nektek a szélsőségeseket.
+A legnagyobb általunk ismert fekete lyuk, ez a TON618.
+Ez 66 milliárd naptömegével, hihetetlenül sokkal nagyobb, mint maga a naprendszer.
+Ha leállt rá, látjátok, ott középpen be van jelölve a naprendszer, de alig látszik, nem hiába.
+Tehát egy hatalmas méretű fekete lyukról van szó.
+Ennek a fekete lyuknak az a hőmérséklet, ami a Hawking-sugárzásnak megfelelő hőmérséklet, az 10-18-on kell vinni.
+Tehát nagyon jó közelítéssel nullafokos.
+Egy ilyen fekete lyuknak az élettartama, amennyi idő alatt a fekete lyuk tényleg képes elpárologni és eltűnni a világunkból, hihetetlenül nagy, kb.
+becsléssel mondjuk 10 a századik év.
+Összehasonlításképpen 13,7 milliárd éves az univerzumunk, az 10 a tizediken nagyságrendű.
+Eszméletlenül nagy.
+De hogy még egy kicsit össze tudjuk hasonlítani, vagy nagyságrendileg el tudjuk képzelni, hogy mekkora ez a szám, nagyobb, mint az összes elemi részecskep becsült szám a beráltató univerzumba, ami csak 10 a nyolcvanadikon egy becslés alapján.
+De azért, hogy legyen egy kis felső becslés is másik oldalról, az összes lehetséges, aki ezt megszámít, még ennél is nagyobbra becsülik, szóval vannak itt különbségek és különböző nagyságrendek.
+Azt még hozzáteszem, hogy egyébként ez a hatalmas fekete lyuk, ez mondjuk 10 milliárd fényév távolságra figyeltük meg, ilyen távol van tőlünk, ez azt jelenti, hogy 10 milliárd évvel ezelőtti állapotát látjuk.
+Ez azt jelenti, hogy 10 milliárd évvel ezelőtt volt ekkora, lehet, hogy ma már sokkal nagyobb, és azért akár sokkal tovább is élni fog ebben az univerzumban.
+A másik szélsőséges fekete lyuk, amit érdemes megnézni, az az általunk ismert legkisebb fekete lyuk.
+Az egyik legkisebb fekete lyuk, ez az unikornis fekete lyuk, ez körülbelül három naptömegű, és azért kapta ezt az érdekes nevet, hogy unikornis, mert nagyon azon a határon van, ahol még nem tudjuk pontosan, hogy mennyi is a legnagyobb neutroncsillag, és mekkora a legkisebb fekete lyuk.
+Ez a mai napig kérdéses, hogy a neutroncsillag és a fekete lyuk a közötti pontos határ, ez valahol ott van, és emiatt a különleges tulajdonsága, miatt kapta ezt a különleges nevet.
+Ő egyébként egy vörös óriás csillagnak a partnere, a csillag maga egy naptömeg, ő pedig három naptömeg, tehát ebben a rendszerben egyébként ő a dominás.
+Na hát az általankismert legkisebb fekete lyuknak is, ez a hőmérséklet, ami a Hawking-sugárzásból eredezhető, ez 10 a mínusz nyolcadikon Kelvin, tehát még mindig hihetetlenül pici, tehát még az 1 Kelvin fokot sem értük el.
+Tehát ez azt jelenti, hogy az univerzumban nem ismerünk jelenleg olyan fekete lyukat, aminek bármennyire is lenne olyan hőmérséklete, vagy olyan hőmérséklete sugárzása, amit érdemben ki tudnánk mutatni.
+Talán majd a jövőben.
+De azért, sőt egyébként nem is tudjuk, hogy ennél kisebb fekete lyukat egyáltalán tudunk-e kreálni az univerzumban, hiszen az egyelőre ismert általunk ismert módszera, hogy fekete lyukat lehet csinálni, az szupernova-robbanások után ott maradó csillag mag, amin értének ez a három naptömeg a várható legkisebb tömeg.
+De akkor ezért ez nem tartson minket vissza attól, hogy elméletben kicsit körbeleljük a témát, és tegyük fel, hogy mi lenne, ha lenne kisebb fekete lyukunk, vagy tudnánk kreálni kisebb fekete lyukat.
+Például azt mondtuk, hogyha a Földből fekete lyukat szeretnénk csinálni, akkor csak annyira kellene összesűríteni, hogy elférjen a körmünkön.
+Hogyha ezt megtennénk, akkor már egy olyan fekete lyukat kapnánk, aminek már látványos lenne a hókénk sugárzása, ugyanis a hőmérséklet, ami a hókénk sugárzáshoz tartozna, az igazából megegyezne körülbelül a nap hőmérsékletével.
+Tehát egészen nagy.
+Ha egy picit még kisebb fekete lyukakra koncentrálunk, tegyük fel, hogy a Monte Veresből csinálunk egy fekete lyukat, ennek már 18-an kellvén lenne a hőmérséklete, bár az életkora, a 10-19.
+év, az még mindig hihetetlenül hosszú.
+Egészen le kell menni emberi méretekben, mondjuk az Eiffel-toronyból kreálunk egy fekete lyukat, ő már 23 óra alatt el tudna tűnni hókénk sugárzása, eszméletlen 10-16-an kellvén fokonékben.
+Aztán még rájöbb megyünk egy 5 forintosból, már ugye 10-33.
+szekundon, tehát igazából egy szempillantás alatt el tűnne ez a fekete lyuk.
+10-26-an kellvén sugárzással egy ilyen fekete lyuk, az igazából olyan pillanatok alatt sugárezne ki az összes energiáját, hogy ez mondjuk egy szempillantás alatt akár több atombomba robbanás energiáját képes lenne felszabadítani.
+Tehát ebben a szempontban ezek a pici fekete lyukak, ezek lennének számunkra egyébként a legveszélyesebbek, hiszen pillanatok alatt hatalmas nagy energia felszabadítására lennének képesek.
+Amúgy elerulom, hogy az ábra azért nem méretarányos, senki ne úgy kezelje, de arra igyekeztem figyelni, hogy az egymáshoz különböző dolgok, tehát nagyságrendileg, mert látható legyen, hogy melyik a nagyobb és a melyik a kisebb, tehát itt mind a négy feketék, amit felraktam az ábrára, az kisebb, mint például a medveállatka.
+A medveállatkát pedig nagyon egyszerű oknál fogva raktam ide erre az ábrára.
+Ugyanis a medveállatka, hogyha mondjuk belőle szeretnék egy feketékat csinálni, akkor az ő méreten hozzátartozós falcsőcsugár, az igazából 10-35.
+méternagyságrendű lenne, ami megfelelne mondjuk a plank hosszúságnak.
+Ez annyiból érdekes, hogy jelenlegi tudásunk szerint a plank hossz a lehető legkisebb hosszai fekmértékegység, amire fel tudjuk bontani az univerzumot.
+Tehát nem igazán tudjuk, hogy mi történik a plank hossz alatt, van-e egyáltalán valami a plank hossz alatt.
+Ezért felmenne a kérdés, hogy lehet-e a plank hosszúságnál kisebb feketékakat csinálni.
+Egyáltalán nem tudjuk még erre a választ, de az is elképzelhető, hogy nem tudunk ennél kisebb feketékakat csinálni, ez az alsó korlát, és ez pedig érdekes, hogy azt jelenteni, hogy egy medveállatka tömegének kisebb feketékat akár nem, tehát nem lehetünk képesek csinálni, még akár elméletben se.
+Maga a 10-35-en nagyságrend észméletlenül pici, egy protonnak a méret 10-15-en méter nagyságrendű, és ahhoz képest a medveállatkának a tömegén azt gondolom, hogy érdekes, hogy akár egy emberi észszer is felfogható méretről van szó, tehát nem is annyira nagyon pici ez a legalsó tömeghatár egy feketéjú kreálására.
+Na és ha már azt láttuk, hogy a feketéjúk az életük végén, hogyha tényleg végigjárják ezt az egész utat, nagyon-nagyon hosszú utat, amikor mondjuk a nagy tömegtől indulva először a Hawking sugárezással, nagyon kis hőmérsékleten sugáreznak, aztán ahogy az életük végén közelednek, egyre nagyobb és nagyobb lesz ez a hőmérséklet, és egyre gyorsabban zajlik le ez a folyamat.
+Az életük végén várható, ahogy ezt az 5 forintosnál semmélytettem, hogy egy hirtelen robbanásba fejezik be az életüket.
+Ha már beszélünk ezekről a robbanásokról, akkor elmesélek egy személyes kis kitekintést a science fiction világába.
+Hát tavaly az egyik tesóm írt egy science fiction könyvet, és hát ki máshoz fordulhatott volna általában a tudományos tanácsokért, ha nem hozzám.
+Egy ilyen kérdés merült fel az ő részéről, hogy ez a jövőben játszódó történet.
+Vajon képesek leszünk-e valaha fekete lyukakból ténylegesen bombát kreálni? A fekete lyukat, hogyha veszünk, amint ez a példa is mutatta, emberi lépnékekkel, ha veszünk fekete lyukat, akkor ezek nagyon gyorsan elpárolognak, és nagyon nagy energiát szabadítanak föl.
+Tehát ez egy teljesen jogos kérdés.
+Vajon lehet-e csinálni fekete lyukakból bombát? Hát körbenézegedtem a neten, és felébbran figyelmet, ez csak fikció, de azért elmesélem, hogy mire jutottam.
+Erre a forgatókönyvben jutottam, amit én úgy neveztem el, hogy egy fotón fekete lyukbomba.
+Vegyünk egy fotont, hogy fotonnak milyen tulajdonságai vannak? Van energiája, van hullámhozza.
+Most az energia és az anyag, meg a tömeg, az igazából egyérem két oldalát, tehát tegyük fel, hogy valamilyen módszerrel a fotónnak a teljes energiáját áttudjuk alakítani tömegé.
+Ez egy nagy ha, de tegyük fel a science fiction kedvéért.
+Hogyha ezt az energiát csak egy pillantra átalakítjuk, és a fotónnak a hullámhozza az kisebb, mint az ehhez a tömeghez tartozó svart-sült sugár, akkor elvilegben fekete lyukat is kaphatunk.
+Kiszámoltam, hogy mekkora energiája fotóra van szükség, hogy ezt meg tudjuk tenni, és azt kaptam, hogy igazából egy 3,5 gigajúl energiai fotón már megtenné ezt a szívességet nekünk, és ez kb.
+egy olyan folyamat lenne, hogy egy pillanat alatt fekete lyukkál változik, majd aztán egy pillanat alatt elpárolog a hókénysugárzáson, és összesen egy 8 kg TNT-nek megfelelő robbantást eredményezne.
+Ez nagyjából megfelel bizonyos rakétáknak, amiket manapság is ismerünk, tehát viszonylag egy balítszenárió egy science fiction könyvhöz.
+Mivel én békepárti vagyok, ezért nagyon remélem, hogy az egész csak science fiction, és tényleg kivitelezhetetlen és megoldhatatlan a dolog.
+Viszont maga a tény, hogy a fekete lyukak hókénysugárzásra képesek, az egy ennél is érdekesebb problémakört eredményezett.
+Nem is a bombák itt a lényeg, hanem az, hogyha a fekete lyukak képesek tényleg elpárologni, és egyszer csak eltűnni az univerzumból, az létrehoz egy olyan paradoxont, amit úgy hívunk, hogy az információs paradoxon.
+A kontummechanikában ez egy nagyon fontos alapállítás, hogy az információ nem veszhete az univerzumba.
+Milyen információról beszélek itt például, itt vagyok én, bennem van egy csomóféle atom, az, hogy milyen atomok vannak, milyen elrendezésben, és hogyan áll össze ez egy emberre, ami én vagyok, ez mind-mind információ.
+Ez az az információ, hogyha mondjuk anyag bekerül a fekete lyuk belsejébe, akkor számunkra ezzel érhetetlenné válik.
+Tegyük fel, hogy a fekete lyuk elnyel egy csomóféle anyagot, engem, a földet, egy piros autót, amit látjátok, bármit.
+Akkor mindaz az informácia, amit mi képviselünk, amit elnyel a fekete lyuk, az valahol a fekete lyuk belsejébe kerül.
+Ez ideig azt mondjuk, hogy semmi ellentmondás nincsen, hiszen senki nem mondta, hogy nekünk ez az információhoz mindig hozzá kell férnünk.
+Lehet, hogy az információt elnyeli a fekete lyuk, lehet, meg is őrzi magának, csak számunkra elérhetetlen innentől kezdve, hiszen információ nem juthat ki a fekete lyukból.
+De ha vesztük a hókénk sugárzást is a képletbe, akkor azt látjuk, hogy a hókénk sugárzással ezek a fekete lyukok szépen apránként elpárolognak és eltűnnek.
+Mert pedig a hókénk sugárzás, ez egy hőmérsékülti sugárzás, nem tűnik úgy, mintha bármi információt is tartalmazna arról, mi mindent nyertel a fekete lyuk.
+De akkor hova tűnik az információ? Ha a fekete lyukok tényleg képesek eltűnni a hókénk sugárzással, akkor olyan, mintha kiradiroznák ezt az információt az univerzumból.
+És ez az, amit mi információs paradoxonnak hívunk.
+Ami viszont biztos, hogy minden fizikus egyetért, hogy paradoxonok nincsenek a világban.
+Egy paradoxonnal, hogyha találkozunk, az általában arra utal, hogy van valami hiányosság a tudásunkban.
+Valamit még nem látunk, valamit még nem értünk.
+Ez például, ez az egyszerű információs paradoxon pedig nem tűnik olyan bonyolultnak.
+Elnyelje a fekete lyuk az információt, aztán elpárolok.
+Ez rengeteg tudományos eredményhez vezetett ezután, rengeteg fizikus és kutató foglalkozott a témában.
+Hókénk is egyébként, akit nagyon sokszor szintén emlegetnek a fekete lyukaknál.
+Minden mai napig nincsen egzakt megoldásunk rá, de azért három darab ötletet elmondok, amik így felmerültek, amik lehetséges magyarázatot adhatják ennek a paradoxonnak.
+Az egyik magyarázat az, hogy mindaz az informácia, amit a fekete lyuk elnyel, az ott van eltárolva a bársaiba.
+Tehát nem férjünk hozzá, mint egy bársaihez, de ott van eltárolva.
+Hogyan maradhat meg ez azután is, hogy mondjuk elpárolg a fekete lyuk? Mondjuk fel, hogy a fekete lyuk nem tud teljes egészében elpárologni, ugyanis marad a helyén egy nagyon pici plank méretű fekete lyuk.
+A hókénk sugárzás az egy kvantumeffektus.
+Egyáltalán nem biztos, hogy ez a plank mérecskára alatt is bekövetkezhet, tehát nem biztos, hogy a plank méretű fekete lyuk el tud párologni hókénk sugárzással.
+Tehát ez egy lehetséges ötlet, hogy azt mondjuk, hogy minden egyes fekete lyuk elpárolog, és mindegyik után marad egy iciki-picike plank méretű fekete lyuk magocska.
+És ez fogja tartalmazni ezt az információt.
+Ez persze egy jó kérdés, hogy egy ilyen icike-picike helyre hogyan lehet ennyi információt beletuszkolni.
+Ez valami olyasmit eredményezne, mint mondjuk a doktornak a telefonfülkéje, vagy a Hermione-nek a táskája, hogy belülről nagyobbnak kéne lennie, mint kívülről.
+Úgyhogy ezt majd még meglátjuk, hogy ez egyáltalán itt van-e.
+De ez egy lehetséges forgatókodás, hát egy elképzelés.
+A másik elképzelés az, amire szintén nagyon sokan szoktak általában hallani, hogy fekete lyukakról van szó, hogy a fekete lyukak közepén a szingularitáshoz lehet, hogy egy féreg lyuk egy átjáró valami másik univerzumban, vagy akár a mi univerzumunk egy másik pontjára.
+Ha a féreg lyuk belsejében van egy féreg lyuk, akkor elképzelhet, hogy mindaz az információ, ami bekerül a fekete lyukban, az a féreg lyukon keresztül kiáramnik, és valahol máshol köt ki.
+Tehát nem vészel az információ, csak áthelyeződik egy másik helyre.
+Meglátjuk.
+Szintén olyan, ez megint egy kérdéles dolog.
+A harmadik, és szerintem számomra a legizgalmasabb ötlet, az az, hogy mindez az információ, amit a fekete lyuk elnyel, az valamilyen módon a felszínén, az eseményhorizont felületén, el mégiscsak eltárolódik.
+Ez az, amit úgy hívunk, hogy egy ilyen hologramot alkott a fekete lyuk, tehát mindaz a háromdimenziós informácia, ami a fekete lyuk belsében elnyelődik, az egy kétdimenziós információként megjelenik az eseményhorizonton.
+Ez természetesen ellenmond annak, amit úgy hívunk, hogy a fekete lyuk a kopaszok elmélet, hiszen azt mondtuk, hogy a fekete lyukaknak kívülről nézve semmilyen más tulajdonsága nem lehet, mint az a háromhajszál, amiről már korábban beszéltünk.
+Persze az elmélet, hogyha ezt a hologram elméletet veszük alapul, ezt szokták úgy is hívni, hogy ez olyan, mintha egy kicsit babahaja azért mégiscsak lenne a fekete lyukaknak.
+Tehát lenne valami módszer, hogy az eseményhorizont felületén, a felszínen eltároljuk az információt, akkor ezt az információt akár valahogyan a Hawking-sugárzást magával is tudná vinni.
+Hogy ez tényleg így van, ez természetesen egy jó kérdés, és ez megint csak egy olyan, hogy majd idővel rá fog jönni, de azért azt az egyet megjegyezném, hogy Jacob Bekenstein, aki előállt ezzel a fekete lyukak-kopaszok elnevezéssel, ő kiszámolta, hogy mennyi információt tud egy fekete lyuk elnyelni.
+És kiderült, hogy az a kvantuminformáció mennyiség, amit egy fekete lyuk elnyel, az arányos a felszínével.
+Nem a térfogatába, a felszínével.
+Tehát az eseményhorizont felszínével.
+Tehát kicsit olyan, mintha valaki tényleg ezt az információ mennyiséget a felszínen szeretni eltárolni.
+Hogy ez így van-e vagy nem, meglátjuk.
+Minden esetre az biztos, hogy ez ilyen-ilyen legű kérdésfelvetések számtalan új eredményt tudnak hozni a fizikában, amikor a fizikusok elkezdenek ilyen paradoxonokon rágódni és gondolkodni.
+Na akkor most már szerintem mindannyian kezdtek nagyon fáradni, úgyhogy már nem túl sokáig húzom az időt, de azért néhány érdekességre még felhívom a figyelmeteket.
+Az egyik az, hogy ha feltesszük, hogy fekete lyukak vannak, most már nagyon messziről meg is tudjuk őket vizsgálni, akkor mindig felmeld a kérdés, hogy oké, de mi lenne, ha közel mennénk hozzájuk.
+Mi történne például velünk, ha megközelítenénk egy fekete lyukat? Most akkor a válasz erre a kérdése egyébként attól függ, hogy honnan nézzük.
+Tegyük fel, hogy én megközelítem a fekete lyukat, mert én ilyen bátor vagyok, ti pedig nézzétek, hogy mi történik velem.
+Amit ti látni fogtok, külső megfigyelőként az az, hogy közelítek a fekete lyukhoz, az eseményhorizonthoz, majd mintha így folyamatosan lelassulnék, egyre lassabban és lassabban mozognék, majd egy ponton ráfagyok az eseményhorizont felszínére és ott maradok.
+Közben természetesen kicsit elvörösödik a kép, amit holan láttok, mert a fotónok, amik tőlem érkeznek, egyre nagyobb megnyújtásban, egyre jobban meg fognak nyúlni, és azért egyre jobban elvörösödnek.
+Ezért lesz az, hogy a kép, amit engem látok, először ráfagy, elvörösödik, és aztán szépen eltűnik.
+Tehát amit ti láttok belőlem, az a kép, az például soha nem lépi át az eseményhorizont határát.
+Tehát ti soha nem fogtok engem látni, amint átlépem ezt a határt.
+Maga az eseményhorizont, az ténylegesen egy határa az eseményeknek, nem hiába szokták ezt így nevezni, bármennyire is furán hangzik.
+Tehát mindaz a dolog, ami az eseményhorizonton belül történik, az igazából kívülről nézve egy külső szemlős számára a végtelen távoli jövőben fog megtörténni.
+Tehát a feketelyük valójában olyan dolgoknak és eseményeknek a halmaza, amelyek a mi idősíkünkön nem is történnek meg.
+Tehát az eseményhorizont tényleg egy ilyen határ, hogy nekünk csak odáig van rálátásunk a dolgokra.
+Viszont az én szemszögemből, hogyha azt mondjuk, hogy én megnézem, hogy mi történik, akkor az én szemszögemből közel tudnék lépni, vagy közel tudnék jutni a feketelyükköz, sőt, akár rát is tudnám lépni az eseményhorizont határát.
+Viszont ez nem változtat azon a tényen, hogy valószínűleg meghalnék előbb vagy utóbb, ezt még mindjárt megbeszéljük, hogy pontosan mikor halok is meg.
+Viszont az érdekes, hogy hogyan halnék meg, amikor egy feketelyükközelébe megyek.
+A legvalószínűbb forgatókönyv az, hogy spagettifikálódok.
+Ez a hivatalos szakszó, tehát a halálomok a spagettifikáció lenne.
+Ez mit jelent, hogy megnyúlok? Miért nyúlik meg az ember egy feketelyükközelébe? Képzeljétek el, hogy itt állok a Földön, és most, ha ránézek, a lábam a sokkal közelebb van a Föld középpontjához, mint a fejem.
+Ez azt jelenti, hogy a lábamra nagyobb gravitáció hat, mint például a fejemre.
+Viszont ez a különbség iszonyatosan pici, tehát senkit nem zavar.
+Mondjuk, ha a feketelyükközelébe megyek, akkor ez a különbség a lábamra és a fejemre ható gravitációs erő között, ez extrém módon megnőhet.
+És amikor ez a különbség elég nagy lesz, akkor egyszerűen megnyújt, mint a spagettit.
+Egészen addig nyújtják az embert, állítólag, valaki megnézte, nem? Amíg teljesen atomi vastagságú láncára spagettifikálódunk, és aztán így fogunk előbb-utóbb magába a szingularitásba kikötni.
+Mutatok nektek egy videótervő a spagettifikációról.
+Természetesen ez nem egy embernek a spagettifikációja, hanem egy csillagnak a spagettifikációja.
+Tehát ezen az animált videón az látszódik, amint egy szupermasszív feketelyüket megközelít egy csillag.
+Ahogy elég közel ér, egy megnyúlik, ugye a spagettifikáció hatására, aztán kialakul ez az akréciós korong, és az akréciós korongra merőlegesen zsetek.
+Hát kb.
+egy ilyen véget ér ez a csillag.
+Most miatt megbeszéljük, hogy én mikor és milyen véget érek, egy kvízkérdés.
+Mivel még minimális offline közönség is van, ezért meg is kérdeztetem az offline közönséget.
+Mit gondoltok, ha a csillag helyett ti tévedtek oda, mi történt volna veletek pontott és pont akkor? A.
+Válasz, meghaltok, még mielőtt odaértek a közel 600G gyorsulás következtében.
+B.
+Meghaltok, mert atomnyi vastagságú nyakráncás spagettifikálódtok.
+C.
+Meghaltok, mert a Hawking-sugárzás cseppfolyósítja a szerveiteket.
+Vagy a D.
+Éltek, mint Marci, Laci, Hevesen.
+Mit gondoltok? Az offline közönséget meg merem kérdezni, az online közönség pedig.
+Remélhetőleg egyszer majd kifejtheti a választat, de el fogom árulni.
+Van bármi ötlet, melyiket szeretnétek megjelölni? Van egy négyes ötlet.
+Van egy első is.
+Na hát akkor az egyesnek úgy látom az egy népszerű válasz.
+Egyes.
+Na hát akkor elárulom, hogy a helyes válasz a négyes.
+Tehát élni fogunk.
+Megbeszéljük egy pillantra, hogy miért fogunk élni.
+Tehát azt mondjuk, hogy kb.
+600 G-gyorsulás lenne az, ami minket érne ezen a ponton.
+Maga a G-gyorsulás egyébként, érdekes mondom, nem öl meg.
+Tehát az, hogy egy gravitációs térbe zuhanunk, az általános lehetőség alappillére, hogy ha zuhanunk egy gravitációs térbe, akkor igazából ezt nem tudjuk megkülönböztetni attól, mint hogyha csak ledegnénk az űrbe.
+Miért van az, amikor azt mondják, hogy egy bizonyos G-gyorsulást megöl? Mert mondjuk beülünk egy repülőbe, és az elindul valami G-gyorsulással, akkor igazából nem mindegyik testrészünkre, vagy minden atomunkra, molekulákra ugyanakkor a gyorsulás hat.
+Ha beülünk az ülésbe, az ülés kezd el gyorsulni, az meglök minket, és így adódik tovább a gyorsulás, ugyan belelapulunk az ülésbe, és ez az, ami halálos.
+Egy egyszerű gravitációs térbe zuhanva, maga az, hogy ilyen gyors, ez annyi baj nem számít, mert az összes bennünkrévő, minden szervünkre, minden atomunkra pontosan ugyanakkor a nyomás, vagy olyan gravitációs gyorsulás hat, és ezért igazából nem lapulunk össze.
+A B válasz, hogy atomnyi vastagságú nyakláncásba gettifikálodunk.
+Senki nem mondta ezt a választ, pedig reméltem, hogy valaki azért ezt is mondja.
+Miért van az, hogy ez a csillag, ez igazából ezen a ponton szétszakad a ráható erők miatt, viszont minket nem érde semmi baj.
+Azért van, mert a csillag sokkal nagyobb.
+Ez egyébként a szimulációban, ha jól emlékszem, körülbelül napméretű csillagról volt szó.
+Ez azt jelenti, hogy mondjuk 1.400.000 km sokkal nagyobb, mint egy ember.
+És ennyiatt 1.400.000 km a különbség egyik és a másik oldala között, sőt igazából, hogy ez a sugara, akkor 2.800.000 km a különbség a két oldala között.
+A gravitációs hatás az egyik oldalán és a másik oldalán számára már nagyon nagy különbsége rendelkezik, tehát tényleg széthúzza a fekete lyuk.
+Viszont nem lenne akkora nagy a különbség mondjuk egy emberi méretnél, néhány méter távolságban még ezek a különbségek nagyon picit fennének, tehát minket még nem spagettifikálja akkor is ott ez a hatás.
+A harmadik.
+Pedig ezt a kettest sokáig emelhet egy ütlentséges...
+Hát ettől függetlenül mindenképpen spagettifikálódunk, de nem ott, ahol ez a csillag.
+De erre mindjárt egy pér pillanat múlva visszatérek.
+A harmadik egyébként a Hawking sugárzás az természetesen azért van kizárva, nem túl valószínű, nem is csodálom, hogy senki nem mondta, hiszen azt mondtuk, hogy az összes általunk ismert fekete lyuk Hawking sugárzással számítható hőmérséklet az 1 Kelvin alatt van, tehát nem egy intenzív sugárzásról beszélünk, tehát ez biztosan nem fogja a végünket okozni.
+Tehát szerencsére itt még élnénk.
+És azt, hogy mikor halunk meg, spagettifikáció által halunk meg, ez a legvalószínűbb forgatókönyv, hogy ez mikor történik, az függ attól, hogy mekkora fekete lyukat közelítünk meg.
+Ha például veszünk egy sima csillag tömegű fekete lyukat, akkor várható, hogy már nagyon messze, tehát még a közelébe se járunk az esemény horizontnak, de már elértük azt a halálos zónát, ahol a lábunkra és a fejünkre alható gravitációs előkülönbsége, az elég nagy ahhoz, hogy spagettifikáljon minket.
+Viszont, hogyha egy szupermasszív feketékat közelítünk meg, akkor várhatóan ez a határ, ez a halálos zóna, ez igazából sokkal azután érjük el, miután már áthaladtunk az esemény horizonton.
+Tehát egyértelmű, hogyha mi már akarunk vizsgálni egy feketékat közelről, akkor szupermasszív feketékat kell vizsgálnunk, ott van lesélyünk ahhoz, hogy átlépjük az esemény horizontot, és utána még egy jó ideig körülnézhetünk.
+Ettől függetlenül túl sok jövőképünk nem lehet, hogyha már átléptük az esemény horizont határát, ugyanis ha átléptük az esemény horizont határát, akkor nem csak az a helyzet, hogy vissza nem tudunk jönni, tehát nem tudunk kijönni az esemény horizonton kívülre, de igazából az esemény horizonton belül sincsen túl sok választási lehetőségünk, ugyanis teljesen meghatározott útvonalon, egyetlen úton haladhatunk.
+A fekete jobb középpontja felé a szingularitásban.
+Tehát ugyanúgy, ahogy az esemény horizonton kívül megszoktuk, hogy például az időben csak egy irányba tudunk haladni, nem tudunk hátra menni az időben, nem tudunk igazából se jobbra, se balra menni, az esemény horizont belső felén nagyjából ugyanígy vagyunk a térbeli mozgásunkkal, teljesen meghatározott se hátra, se jobbra, se balra, előre a szingularitás felé, úgyhogy előbb-utóbb mindenképpen ott lyukadnánk ki, és előbb spagettifikálódnánk, aztán pedig a végtelen sűrűségű szingularitásba préselődnénk be.
+Tehát nagyon pozitív jövőkép, úgyhogy semmiképpen nem ezzel fejezem be az előadást.
+Egy utolsó történet, ami egy kicsit pozitívabb fénybe tünteti fel a fekete lyukakat, ezt mesélem még el nektek.
+Azt mondtuk, hogy az univerzumban az várható, hogy a legtöbb fekete lyuk, az forog.
+Tehát van valami párdülete.
+Most a forgó fekete lyukaknak rengeteg izgalmas tulajdonsága van, egyetemelnék ki.
+Egy forgó fekete lyuk körül van egy olyan térrész, amit úgy hívunk, hogy ergószféra.
+Ez az a térrész, ahol a téridőnek a forgása az olyan gyors, hogyha oda bekerülsz, akkor a téridő a fénysebességnél gyorsabban magával ragad.
+Közben elment a hangom, mert félrenyeltem valamit.
+Na, így már remélem, hogy lesz hangom is, hogy befejezzem az utolsó pármondatot.
+Tehát ez az a rész, ez az ergószféra, ahol egyszerűen nem tudunk megállni.
+Mert ahhoz, hogy megálljunk, a fénysebességnél gyorsabb sebességet kellene elírnünk, és a fénysebességnél gyorsabban magával ragad minket a tér.
+Na hát, ez egy ijesztőnek tűnik, de egyébként nem az, hiszen ez még mindig nem az esemény horizont, tehát ha az ergószférába bekerülünk, járba ragad magával minket, onnan még ki tudunk jutni.
+Sőt, onnan akár energiát is tudunk kinyerni.
+Ez az úgynevezett pároz folyamaton keresztül.
+Tegyük fel, hogy bemegyünk egy űrhajóval ebbe az ergószférába, viszünk magámonkal egy kis ajándékot.
+Ezt az ajándékcsomagot, valamekkora tömeget, ezt szépen bedobjuk a fekete lyuk belsejébe, tehát az esemény horizonton belülre, megajándékozzuk vele a fekete lyukat.
+Cserébe a fekete lyuk megajándékozik egy kicsit minket a forgási energiájával, és az ergószférát már az eredeti energiánknál, sebességünknél gyorsabban tudjuk elhagyni.
+Tehát adunk egy kis tömeget a fekete lyuknak, cserébe pedig nagyobb energiával száguldhatunk ki az ergószférába.
+Tehát valójában energiát tudunk termelni a fekete lyukakból, és hogyha ez önmagában nem lenne elég bíztató, ennek van egy még izgalmasabb verziója.
+Epítünk egy tükörrendszert a fekete lyuk köré.
+Emmel a tükörrendszertbe fogjuk magunkat, egyébként nem is olyan nehéz szerintem tükörrendszert építeni a fekete lyuk köré, hiszen a fekete lyukak nem olyan nagyok.
+Én nyitjuk az egyik tükröt, közben már tényleg nincsen hangom, és belőlünk egy adag fénysugarát.
+Aztán bezárjuk a tükröt.
+Ez a fénysugar, ahogy bekerül a rendszerbe, a tükrök között elkezd össze-vissza pattogni.
+A fénynyalábnak egy részét a fekete lyuk elnyeli, viszont cserébe a maradék fénynyalába, ami nem nyelődik el, az egyre nagyobb energiára tesz szert, hogy pattog a tükrök között.
+Ez olyan mértékben megnőhet ez az energia, hogy így időután, hogyha valahol nem nyitjuk ezt a rendszert, akkor egyébként fel is robban egy nagy robbanásba, viszont mivel mi egy szuperfejlett civilizáció vagyunk, ahogy itt az ábrá elállhatjátok, kinyitjuk a tükröt, az egyik tükröt a megfelelő időpillanatban, és kiengedjük ezt az energiát, ami benne van.
+Ez azt jelenti, hogy maga ez a fekete lyuk, meg a körépített Dyson gömb, közben már tényleg ne haragudjatok, de elnagy a hangom, ez valójában egy nagyon jó energiaforrás, tehát energiatermelésre használható.
+És amint a történetben láthattátok egészen eddig, a fekete lyukak várhatóan sokkal tovább fognak élni, mint a csillagok.
+Ez azt jelenti, hogy a nagyon-nagyon távoli jövőben, tehát amikor már az összes csillagnak a fények ki aludt, és igazából semmi más energiaforrásunk nincsen, akkor a fekete lyukakat felhasználhatjuk arra, hogy ők legyenek a jövő szuperfejlett civilizációinak, így igazából a bölcsői, tehát az energiatermelői.
+És, hogyha a szervezetem engedi, akkor, mert most már nagyobb mondja a torkom, hogy hagyjam abba a dumálást, szerencsére be is fejeztem, de mindenképpen szerettem volna ezt a pozitív gondolatot ide rakni az előadás végére, hogy lássátok, hogy a fekete lyukak valójában nem a végzetünk lesznek, amik elnyelnek minket, hanem igazából a nagyon távoli jövőben ők lesznek azok, amelyek tényleg a civilizációk megmentői lehetnek.
+És szerintem ez igazán egy biztató és pozitív gondolat.
+Úgyhogy tényleg befejeztem az előadást.
+Egyetlen egy játékot szeretnék elmondani nektek, egy játékra invítálom titeket itt, akik az offline nézők vagytok, meg az online nézőket is.
+Ha valakit esetleg megékletett ez a mai előadás, és szeretnek kicsit elgondolkodni, akkor ára kérem, hogy gondolják végig, hogy a mai előadás alapján hogyan lehetne egy fizikailag reálisabb végkifejletet és végeredményt adni az úgynevezett hangya című filmnek.
+Remélem sokan láttátok ezt a filmet, ez egy Marvel szuperhősös film.
+Nem lövöm le, hogy mi a vége, de hogyha valaki látta és elgondolkodik rajta, hogy mi lehetne, vagy hogyan végződhetne ez a történet, hogyha a mai előadást tanulságáiból indulunk ki, akkor írja meg nekem azt a forgatókönyvet, amivel előállt, itt látjátok az e-mail címemet, és hát majd valamit kitalálunk szerintem, hogy a legjobb beküldők és eredmények, a legjobb beküldők, azok kapjanak valami kis apróságot, vagy valami kis ajándékot cserébe, majd meglátom, hogy még megbeszélem, hogy esetleg atomcsilles pólót, vagy ilyesmit felajánlhatunk-e, hogy ezt kitaláljuk.
+Tehát a kérdés, hogy a hangya című filmnek hogyan érhetne véget, hogyha a mai előadásból indulunk ki.
+Úgyhogy megköszönöm a türelmeteket, mert ez egy nagyon hosszú út volt, és megköszönöm a figyelmeteket.
+Ne menjetek messzire, mert néhány perc után kísérletezéssel fogjuk folytatni.
+Köszönöm szépen.
